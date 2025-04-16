@@ -1,0 +1,283 @@
+[
+  {
+    "type": "networking",
+    "startTime": "2:10 PM",
+    "endTime": "2:25 PM",
+    "title": "Networking Break",
+    "description": ""
+  },
+  {
+    "date": "11/16/2020",
+    "startTime": "8:00 AM ET",
+    "title": "Register for AI Week!",
+    "org": "Scoop News Group",
+    "coimage": "images/cw/AIWEEK.png",
+    "url": "https://aiweek.com",
+    "color": ""
+  },
+  {
+    "date": "11/17/2020",
+    "startTime": "8:00 AM ET",
+    "title": "Transforming the Business Using Technology",
+    "org": "AFCEA Bethesda",
+    "coimage": "images/cw/AFCEA.png",
+    "url": "https://yesandagency.swoogo.com/novbfast2020?ref=fedscoop",
+    "color": ""
+  },
+  {
+    "date": "11/17/2020",
+    "startTime": "8:00 AM ET",
+    "title": "GMG Virtual Forum: Artificial Intelligence",
+    "org": "Global Mining Guidelines Group",
+    "coimage": "/images/cw/GMG.png",
+    "url": "https://www.eventbrite.com/e/gmg-virtual-forum-artificial-intelligence-tickets-118786837629?aff=ebdssbonlinesearch&keep_tld=1",
+    "color": ""
+  },
+  
+  {
+    "date": "11/17/2020",
+    "startTime": "12:00 PM ET",
+    "title": "LatinX in AI (LXAI) Social @ EMNLP 2020",
+    "org": "Accel.AI",
+    "coimage": "/images/cw/AccelAI.png",
+    "url": "https://www.eventbrite.com/e/latinx-in-ai-lxai-social-emnlp-2020-tickets-126941749189",
+    "color": ""
+  },
+  {
+    "date": "11/17/2020",
+    "startTime": "1:00 PM ET",
+    "title": "Microsoft FedTalks Community Connection - Part 1",
+    "org": "Microsoft",
+    "coimage": "/images/cw/Microsoft.png",
+    "url": "https://mktoevents.com/Microsoft+Event/214167/157-GQE-382?ocid=lp_pg217295_gdc_gov_dt",
+    "color": ""
+  },
+  {
+    "date": "11/17/2020",
+    "startTime": "2:00 PM ET",
+    "title": "SNG Live: Artificial Intelligence",
+    "org": "Scoop News Group",
+    "coimage": "/images/cw/SNGLivePurple.png",
+    "url": "https://www.fedscoop.com/events/snglive/ai-nov/",
+    "color": "purple"
+  },
+  {
+    "date": "11/17/2020",
+    "startTime": "2:00 PM ET",
+    "title": "AWS Artificial Intelligence and Machine Learning Webinar Series",
+    "org": "AWS",
+    "coimage": "/images/cw/AWS.png",
+    "url": "https://pages.awscloud.com/2020-AIML-Week.html",
+    "color": ""
+  },
+  {
+    "date": "11/17/2020",
+    "startTime": "2:00 PM ET",
+    "title": "DARPA's Subterranean (SubT) Cave Circuit Virtual Competition",
+    "org": "DARPA",
+    "coimage": "/images/cw/DARPA.png",
+    "url": "https://www.darpa.mil/news-events/subt-cave-circuit-virtual-competition",
+    "color": ""
+  },
+  {
+    "date": "11/17/2020",
+    "startTime": "2:00 PM ET",
+    "title": "Talk Data to Me: Healthcare & AI",
+    "org": "General Assembly: Dallas",
+    "coimage": "/images/cw/GA.png",
+    "url": "https://www.eventbrite.com/e/talk-data-to-me-healthcare-ai-tickets-123097242165?aff=ebdssbonlinesearch",
+    "color": ""
+  },
+  {
+    "date": "11/17/2020",
+    "startTime": "2:00 PM ET",
+    "title": "Modernization Through Intelligent Customer Engagement",
+    "org": "Red Hat",
+    "coimage": "/images/cw/RedHat.png",
+    "url": "https://www.redhat.com/en/events/webinar/application-modernization-imperative-series?sc_cid=7013a0000025vv3AAA",
+    "color": ""
+  },
+  {
+    "date": "11/18/2020",
+    "startTime": "12:00 PM ET",
+    "title": "LatinX in AI (LXAI) Social @ EMNLP 2020",
+    "org": "Accel.AI",
+    "coimage": "/images/cw/AccelAI.png",
+    "url": "https://www.eventbrite.com/e/latinx-in-ai-lxai-social-emnlp-2020-tickets-126941749189",
+    "color": ""
+  },
+  {
+    "date": "11/18/2020",
+    "startTime": "1:00 PM ET",
+    "title": "What's New in Azure Government",
+    "org": "Microsoft",
+    "coimage": "/images/cw/Microsoft.png",
+    "url": "https://info.microsoft.com/en-us-landing-WhatsNewinAzureGovernment-none.html?ocid=lp_pg217295_gdc_gov_dt",
+    "color": ""
+  },
+  {
+    "date": "11/18/2020",
+    "startTime": "1:30 PM ET",
+    "title": "Securing the Government Software Supply Chain",
+    "org": "Microsoft",
+    "coimage": "/images/cw/Microsoft.png",
+    "url": "https://info.microsoft.com/en-us-landing-SecuringtheGovernmentSoftwareSupplyChain-none.html?ocid=lp_pg217295_gdc_gov_dt",
+    "color": ""
+  },
+  {
+    "date": "11/18/2020",
+    "startTime": "2:00 PM ET",
+    "title": "SNG Live: Data & Machine Learning - SLED",
+    "org": "Scoop News Group",
+    "coimage": "/images/cw/SNGLivePurple.png",
+    "url": "https://www.fedscoop.com/events/snglive/data-machine-learning-sled/",
+    "color": "purple"
+  },
+  {
+    "date": "11/18/2020",
+    "startTime": "2:00 PM ET",
+    "title": "Microsoft Federal: Women in IT",
+    "org": "Microsoft",
+    "coimage": "/images/cw/Microsoft.png",
+    "url": "https://info.microsoft.com/en-us-landing-MicrosoftFederalWomeninIT-none.html?ocid=lp_pg217295_gdc_gov_dt",
+    "color": ""
+  },
+  {
+    "date": "11/18/2020",
+    "startTime": "2:00 PM ET",
+    "title": "Artificial Intelligence and the Future of Healthcare",
+    "org": "Roche",
+    "coimage": "/images/cw/Roche.png",
+    "url": "https://dianews.roche.com/aidebate?gclid=Cj0KCQiA48j9BRC-ARIsAMQu3WRs5652ZesuwZfDN4S5k-vh2o20jBuWcxJG4DweFv07_mLsrVrbbE4aAoBfEALw_wcB",
+    "color": ""
+  },
+  {
+    "date": "11/18/2020",
+    "startTime": "3:00 PM ET",
+    "title": "Inspire Educators Workshop",
+    "org": "USA Science & Engineering Festival",
+    "coimage": "/images/cw/USA_SEF.png",
+    "url": "https://usasciencefestival.org/inspire-educators-workshops-virtual-registration/",
+    "color": ""
+  },
+  {
+    "date": "11/18/2020",
+    "startTime": "4:00 PM ET",
+    "title": "Towards building new AI using Neuromorphic Computing Systems, Narayan Srinivasa, Ph.D., Intel Labs",
+    "org": "NJIT Institute for Data Science",
+    "coimage": "/images/cw/NJIT.png",
+    "url": "https://www.eventbrite.com/e/towards-building-new-ai-using-neuromorphic-computing-systems-tickets-122565333211?aff=ebdssbonlinesearch",
+    "color": ""
+  },
+  {
+    "date": "11/18/2020",
+    "startTime": "8:00 PM ET",
+    "title": "Machine Learning Design Patterns Book Launch Event",
+    "org": "GDG Seattle",
+    "coimage": "/images/cw/GDG.png",
+    "url": "https://www.eventbrite.com/e/machine-learning-design-patterns-tickets-126507478273?aff=ebdssbonlinesearch",
+    "color": ""
+  },
+  {
+    "date": "11/19/2020",
+    "startTime": "8:00 AM ET",
+    "title": "Artificial Intelligence International Impact on Economy and Society",
+    "org": "International Telecommunications Society",
+    "coimage": "/images/cw/ITS.png",
+    "url": "https://www.eventbrite.com/e/artificial-intelligence-international-impact-on-economy-and-society-registration-123698588809?aff=ebdssbonlinesearch&keep_tld=1",
+    "color": ""
+  },
+  {
+    "date": "11/19/2020",
+    "startTime": "11:00 AM ET",
+    "title": "National Security and Artificial Intelligence: How Export Controls and CFIUS Reviews Impact AI Trade and Investment",
+    "org": "Kirkland & Ellis",
+    "coimage": "/images/cw/Kirkland.png",
+    "url": "https://communications.kirkland.com/rv/ff006cbfa1b0304f4e3fa47b3148b26f13a14ca2",
+    "color": ""
+  },
+  
+  {
+    "date": "11/19/2020",
+    "startTime": "2:00 PM ET",
+    "title": "Impact Summit Series: Artificial Intelligence (AI) (powered by TTS)",
+    "org": "TTS/GSA",
+    "coimage": "/images/cw/GSA.png",
+    "url": "https://www.eventbrite.com/e/impact-summit-series-artificial-intelligence-ai-powered-by-tts-tickets-127365121507?aff=fedscoop",
+    "color": ""
+  },
+  {
+    "date": "11/19/2020",
+    "startTime": "2:00 PM ET",
+    "title": "Women's Health Tech Challenge - Women's Entrepreneurship Day",
+    "org": "Hitlab",
+    "coimage": "/images/cw/Hitlab.png",
+    "url": "https://www.eventbrite.com/e/womens-health-tech-challenge-womens-entrepreneurship-day-tickets-95606582863?aff=ebdssbonlinesearch",
+    "color": ""
+  },
+  {
+    "date": "11/19/2020",
+    "startTime": "3:00 PM ET",
+    "title": "Inspire Educators Workshop",
+    "org": "USA Science & Engineering Festival",
+    "coimage": "/images/cw/USA_SEF.png",
+    "url": "https://usasciencefestival.org/inspire-educators-workshops-virtual-registration/",
+    "color": ""
+  },
+  {
+    "date": "11/19/2020",
+    "startTime": "3:00 PM ET",
+    "title": "How Data Impacts My Life: Social Justice",
+    "org": "Data 4 Good",
+    "coimage": "/images/cw/Data4Good.png",
+    "url": "https://www.eventbrite.com/e/how-data-impacts-my-life-social-justice-registration-124939422175?aff=ebdssbonlinesearch",
+    "color": ""
+  },
+  {
+    "date": "11/19/2020",
+    "startTime": "4:00 PM ET",
+    "title": "Maryland AI Roundtable Discussion: AI Promise and Reality",
+    "org": "Artificial Intelligence Maryland (MD-AI)",
+    "coimage": "/images/cw/AIMD.png",
+    "url": "https://www.meetup.com/MarylandAI/events/274532834",
+    "color": ""
+  },
+  {
+    "date": "11/19/2020",
+    "startTime": "5:00 PM ET",
+    "title": "Webinar: Breaking Into Product Management by Google Sr AI/ML PM",
+    "org": "Product School",
+    "coimage": "/images/cw/Product_School.png",
+    "url": "https://www.eventbrite.com/e/webinar-breaking-into-product-management-by-google-sr-aiml-pm-tickets-116210760513?aff=ebdssbonlinesearch",
+    "color": ""
+  },
+  {
+    "date": "11/19/2020",
+    "startTime": "5:00 PM ET",
+    "title": "Women in AI - WaiTALK: Career Velocity & Entrepreneurship in AI",
+    "org": "Women in AI",
+    "coimage": "/images/cw/WomeninAI.png",
+    "url": "https://www.eventbrite.com/e/women-in-ai-waitalk-career-velocity-entrepreneurship-in-ai-tickets-127963868375?aff=ebdssbonlinesearch&keep_tld=1",
+    "color": ""
+  },
+  {
+    "date": "11/19/2020",
+    "startTime": "6:00 PM ET",
+    "title": "Cascad.AI: Ethical AI Adoption Around the Globe",
+    "org": "Northeastern University - Vancouver",
+    "coimage": "/images/cw/Northeastern_Vancouver.png",
+    "url": "https://www.eventbrite.com/e/cascadai-ethical-ai-adoption-around-the-globe-tickets-126351951087?aff=ebdssbonlinesearch&keep_tld=1",
+    "color": ""
+  },
+  {
+    "date": "11/20/2020",
+    "startTime": "9:00 AM ET",
+    "title": "CX and AI in 2021: What to Expect and How To Get Ready",
+    "org": "Brick House Blue",
+    "coimage": "/images/cw/BrickHouseBlue.png",
+    "url": "https://www.eventbrite.com/e/cx-and-ai-in-2021-what-to-expect-and-how-to-get-ready-tickets-126827409195?aff=ebdssbonlinesearch",
+    "color": ""
+  }
+  
+  
+]

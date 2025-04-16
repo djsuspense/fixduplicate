@@ -1,0 +1,176 @@
+[
+  {
+    "image": "https://cdn.fedscoop.com/upgather/it-modernization-summit/speakers/Nyczepir_Dave.png",
+    "name": "Dave Nyczepir",
+    "title": "Tech Reporter, FedScoop"
+  },
+  
+  {
+    "image": "https://cdn.fedscoop.com/upgather/it-modernization-summit/speakers/DJ_Donald.png",
+    "name": "DJ Donald Syriani",
+    "title": ""
+  },
+
+  
+  { 
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/ai-calendar/Kamali_Goldy.png",
+    "name":"Goldy Kamali",
+    "title":"Founder & CEO, Scoop News Group"
+  },
+  
+  {
+    "name": "Brandon Wales",
+    "title": "Executive Director, CISA",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Wales_Brandon.png"
+  },
+  {
+    "name": "Briana Farro",
+    "title": "Principal Engineer, Global Technical Director, Endpoint & EDR, McAfee",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Farro_Briana.png"
+  },
+  {
+    "name": "Wyatt Kash",
+    "title": "SVP, Content Strategy, Scoop News Group",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Kash_Wyatt.png"
+  },
+  {
+    "name": "Camille Stewart",
+    "title": "Co-Founder, #ShareTheMicInCyber & Global Head, Product Security Strategy, Google",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Stewart_Camille.png"
+  },
+  {
+    "name": "Lauren Zabierek",
+    "title": "Co-Founder, #ShareTheMicInCyber & Executive Director, Cyber Project, Harvard Belfer Center",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Zabierek_Lauren.png"
+  },
+  {
+    "name": "Byron Love",
+    "title": "Sr. Program Manager, Cyber Protection Services, Raytheon",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Love_Byron.png"
+  },
+  {
+    "name": "Greg McCarthy",
+    "title": "CISO, City of Boston",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/McCarthy_Greg.png"
+  },
+  {
+    "name": "Amy Hogan-Burney",
+    "title": "General Manager, Digital Crimes Unit, Microsoft",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Hogan-Burney_Amy.png"
+  },
+  {
+    "name": "Ron Gula",
+    "title": "President & Co-Founder, Gula Tech Adventures",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Gula_Ron.png"
+  },
+  {
+    "name": "Jeff Stone",
+    "title": "Editor-in-Chief, CyberScoop",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Stone_Jeff.png"
+  },
+  {
+    "name": "Scott Smith",
+    "title": "Partner, Government & Public Sector Cybersecurity Lead, EY",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Smith_Scott.png"
+  },
+  {
+    "name": "David McKeown",
+    "title": "Deputy CIO for Cybersecurity, DOD",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/McKeown_David.png"
+  },
+  {
+    "name": "Jackson Barnett",
+    "title": "Tech Reporter, FedScoop",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Barnett_Jackson.png"
+  },
+  {
+    "name": "Will Ash",
+    "title": "Sr. Director, U.S. Public Sector Security, Cisco",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Ash_Will.jpg"
+  },
+  {
+    "name": "Craig Froelich",
+    "title": "CISO, Bank of America",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Froelich_Craig.png"
+  },
+  {
+    "name": "Juliana Vida",
+    "title": "Group Vice President & Chief Strategy Advisor, Public Sector, Splunk",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Vida_Juliana.png"
+  },
+  {
+    "name": "Mari Galloway",
+    "title": "CEO & Founding Board Member, Women's Society of Cyberjutsu",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Galloway_Mari.png"
+  },
+  {
+    "name": "Chris Hallenbeck",
+    "title": "CISO, Tanium",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Hallenbeck_Chris.png"
+  },
+  {
+    "name": "Francis Rose",
+    "title": "VP, Multimedia Content, Scoop News Group",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Francis_Rose.png"
+  },
+  {
+    "name": "Sajed Naseem",
+    "title": "CISO, New Jersey Courts",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Naseem_Sajed.png"
+  },
+  {
+    "name": "Jake Williams",
+    "title": "VP, Content & Community, SLED, StateScoop & EdScoop",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Williams_Jake.png"
+  },
+  {
+    "name": "Chris Crummey",
+    "title": "Cybersecurity Leader, IBM Center for Government",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Crummey_Chris.png"
+  },
+  {
+    "name": "Natalia Martin",
+    "title": "Acting Director, National Cybersecurity Center of Excellence",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Martin_Natalia.png"
+  },
+  {
+    "name": "Tommy Todd",
+    "title": "VP of Security, Code 42",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Todd_Tommy.png"
+  },
+  {
+    "name": "Matthew Travis",
+    "title": "CEO, CMMC Accreditation Body",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Travis_Matthew.png"
+  },
+  {
+    "name": "Kevin Youngquist",
+    "title": "VP, Public Sector Sales, Veritas Technologies",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Youngquist_Kevin.png"
+  },
+  {
+    "name": "Norm Laudermilch",
+    "title": "Chief Cyber Officer, LookingGlass",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Laudermilch_Norm.png"
+  },
+  {
+    "name": "Jessica Wilkerson",
+    "title": "Sr. Cyber Policy Advisor, Office of Strategic Partnerships & Technology Innovation, Center for Devices & Radiological Health, FDA",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Wilkerson_Jessica.png"
+  },
+  {
+    "name": "Stephanie Domas",
+    "title": "Director, Security Strategy & Communications, Intel Corporation",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Domas_Stephanie.png"
+  },
+  {
+    "name": "Christian Dameff",
+    "title": "Medical Director of Cybersecurity, University of California San Diego",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Dameff_Christian.png"
+  },
+  {
+    "name": "Lisa Young",
+    "title": "VP, Cyber Risk, Axio Global",
+    "image":"https://s3.amazonaws.com/sng-global-web-assets/images/cyberweek/Young_Lisa.png"
+  }
+]

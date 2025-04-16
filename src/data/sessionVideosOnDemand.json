@@ -1,0 +1,358 @@
+[
+  {
+    "date": "11/17/2020",
+    "title": "Full Session",
+    "slug": "full-session",
+    "url": "#",
+    "image": "/images/ondemand/d1/S0.png",
+    "videoId": "6210239239001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "Welcome",
+    "slug": "welcome",
+    "url": "#",
+    "image": "/images/ondemand/d1/S1.png",
+    "videoId": "6210716849001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "AI & Defense",
+    "slug": "ai-defense",
+    "url": "#",
+    "image": "/images/ondemand/d1/S2.png",
+    "videoId": "6210803623001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "AI & Cloud",
+    "slug": "ai-cloud",
+    "url": "#",
+    "image": "/images/ondemand/d1/S3.png",
+    "videoId": "6210712904001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "AI & Emerging Technologies",
+    "slug": "ai-emerging-technologies",
+    "url": "#",
+    "image": "/images/ondemand/d1/S4.png",
+    "videoId": "6210706733001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "AI-Driven Solutions",
+    "slug": "ai-driven-solutions",
+    "url": "#",
+    "image": "/images/ondemand/d1/S5.png",
+    "videoId": "6210801160001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "AI & Machine Learning",
+    "slug": "ai-machine-learning",
+    "url": "#",
+    "image": "/images/ondemand/d1/S6.png",
+    "videoId": "6210708322001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "Computer Science & Education",
+    "slug": "computer-science-education",
+    "url": "#",
+    "image": "/images/ondemand/d1/S8.png",
+    "videoId": "6211000804001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "AI-Driven Solutions",
+    "slug": "ai-driven-solutions",
+    "url": "#",
+    "image": "/images/ondemand/d1/S9.png",
+    "videoId": "6210716851001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "Future of Work",
+    "slug": "future-of-work",
+    "url": "#",
+    "image": "/images/ondemand/d1/S10.png",
+    "videoId": "6210997408001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "Technology & Criminal Justice",
+    "slug": "technology-criminal-justice",
+    "url": "#",
+    "image": "/images/ondemand/d1/S11.png",
+    "videoId": "6210730263001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "AI-Driven Solutions",
+    "slug": "aidriven-solutions",
+    "url": "#",
+    "image": "/images/ondemand/d1/S12.png",
+    "videoId": "6210727534001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "AI & Computing",
+    "slug": "ai-computing",
+    "url": "#",
+    "image": "/images/ondemand/d1/S13.png",
+    "videoId": "6210732737001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "AI-Driven Solutions",
+    "slug": "ai-driven-solutions",
+    "url": "#",
+    "image": "/images/ondemand/d1/S14.png",
+    "videoId": "6211003863001"
+  },
+  {
+    "date": "11/17/2020",
+    "title": "Closing Remarks",
+    "slug": "closing-remarks",
+    "url": "",
+    "image": "/images/ondemand/d1/S15.png",
+    "videoId": "6210722787001"
+  },
+
+
+  {
+    "date": "11/18/2020",
+    "title": "Full Session",
+    "slug": "full-session-2",
+    "url": "#",
+    "image": "/images/ondemand/d2/S0.png",
+    "videoId": "6210480513001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "Welcome",
+    "slug": "welcome-2",
+    "url": "#",
+    "image": "/images/ondemand/d2/S1.png",
+    "videoId": "6210453618001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "Technology & Government",
+    "slug": "technology-government",
+    "url": "#",
+    "image": "/images/ondemand/d2/S2.png",
+    "videoId": "6210457908001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "AI & Emerging Technologies",
+    "slug": "ai-emerging-technologies-2",
+    "url": "#",
+    "image": "/images/ondemand/d2/S3.png",
+    "videoId": "6210462825001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "Future of Work",
+    "slug": "future-of-work-2",
+    "url": "#",
+    "image": "/images/ondemand/d2/S4.png",
+    "videoId": "6210453619001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "Future of AI",
+    "slug": "future-of-ai",
+    "url": "#",
+    "image": "/images/ondemand/d2/S5.png",
+    "videoId": "6210453621001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "AI & Government",
+    "slug": "ai-government",
+    "url": "#",
+    "image": "/images/ondemand/d2/S6.png",
+    "videoId": "6210454417001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "Data & AI",
+    "slug": "data-ai",
+    "url": "#",
+    "image": "/images/ondemand/d2/S8.png",
+    "videoId": "6210468090001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "AI & Content Moderation",
+    "slug": "ai-content-moderation",
+    "url": "#",
+    "image": "/images/ondemand/d2/S9.png",
+    "videoId": "6210458493001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "Technology & Government",
+    "slug": "technology-government-2",
+    "url": "",
+    "image": "/images/ondemand/d2/S10.png",
+    "videoId": "6210471887001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "AI & Defense",
+    "slug": "ai-defense-2",
+    "url": "",
+    "image": "/images/ondemand/d2/S11.png",
+    "videoId": "6210472272001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "AI Research Institutes",
+    "slug": "ai-research-institutes",
+    "url": "",
+    "image": "/images/ondemand/d2/S12.png",
+    "videoId": "6210454330001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "Technology & Government",
+    "slug": "technology-government-3",
+    "url": "",
+    "image": "/images/ondemand/d2/S13.png",
+    "videoId": "6210471698001"
+  },
+  {
+    "date": "11/18/2020",
+    "title": "Closing Remarks",
+    "slug": "closing-remarks-2",
+    "url": "",
+    "image": "/images/ondemand/d2/S1.png",
+    "videoId": "6210452300001"
+  },
+
+
+  {
+    "date": "11/19/2020",
+    "title": "Full Session",
+    "slug": "full-session-3",
+    "url": "#",
+    "image": "/images/ondemand/d3/S0.png",
+    "videoId": "6210808373001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "Welcome",
+    "slug": "welcome-3",
+    "url": "#",
+    "image": "/images/ondemand/d3/S1.png",
+    "videoId": "6210783141001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "Future of Work",
+    "slug": "future-of-work-3",
+    "url": "#",
+    "image": "/images/ondemand/d3/S2.png",
+    "videoId": "6210810536001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "Data & AI",
+    "slug": "data-ai-2",
+    "url": "#",
+    "image": "/images/ondemand/d3/S3.png",
+    "videoId": "6210820899001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "Tech Reskilling",
+    "slug": "tech-reskilling",
+    "url": "#",
+    "image": "/images/ondemand/d3/S4.png",
+    "videoId": "6210808876001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "Future of Work",
+    "slug": "future-of-work-4",
+    "url": "#",
+    "image": "/images/ondemand/d3/S5.png",
+    "videoId": "6210803059001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "AI & Defense",
+    "slug": "ai-defense-3",
+    "url": "#",
+    "image": "/images/ondemand/d3/S6.png",
+    "videoId": "6210790239001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "AI & Healthcare",
+    "slug": "ai-healthcare",
+    "url": "#",
+    "image": "/images/ondemand/d3/S7.png",
+    "videoId": "6210811970001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "AI & Defense",
+    "slug": "ai-defense-4",
+    "url": "#",
+    "image": "/images/ondemand/d3/S8.png",
+    "videoId": "6210790317001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "Analytics & Policy",
+    "slug": "analytics-policy",
+    "url": "",
+    "image": "/images/ondemand/d3/S9.png",
+    "videoId": "6210808875001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "AI & Cybersecurity",
+    "slug": "ai-cybersecurity",
+    "url": "",
+    "image": "/images/ondemand/d3/S10.png",
+    "videoId": "6210804940001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "Technology & Government",
+    "slug": "technology-government-4",
+    "url": "",
+    "image": "/images/ondemand/d3/S11.png",
+    "videoId": "6210808724001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "Technology & Government",
+    "slug": "technology-government-5",
+    "url": "",
+    "image": "/images/ondemand/d3/S12.png",
+    "videoId": "6210803018001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "Technology & Government",
+    "slug": "technology-government-6",
+    "url": "",
+    "image": "/images/ondemand/d3/S13.png",
+    "videoId": "6210813229001"
+  },
+  {
+    "date": "11/19/2020",
+    "title": "Closing Remarks",
+    "slug": "closing-remarks-3",
+    "url": "",
+    "image": "/images/ondemand/d3/S1.png",
+    "videoId": "6210807311001"
+  }
+]
