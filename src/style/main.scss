@@ -1,0 +1,228 @@
+@import "_variables";
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+  background-color: #fff;
+}
+body.ReactModal__Body--open {
+  overflow: hidden;
+}
+.container .content{
+  display: none;
+}
+section.container {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(186px, 1fr));
+  // grid-template-columns: repeat(5, 1fr);
+}
+section.container > * {
+  background-color: #333;
+  height: 200px;
+}
+section.about,
+section.speakers,
+section.agenda,
+section.location {
+  
+  text-align: center;
+  
+  
+  margin: 0 auto;
+}
+section.about {
+    background-color: #272727;
+}
+
+section.agenda {
+    background-color: #272727;
+    display: none;
+}
+section.location {
+    background-color: #fff;
+}
+.sigBlue,div.signature.events,.optionclose.signature.events{
+  background-color: #022058 !important;
+}
+.twitterBlue,div.twitter.chat,.optionclose.twitter.chat{
+  background-color: #0550f5 !important;
+}
+.panYellow,div.podcast,.optionclose.podcast, div.hybrid, .optionclose.hybrid{
+  background-color: #fe009a !important;
+}
+.conTeal,div.in-person,.optionclose.in-person{
+  background-color: #07db89 !important;
+}
+.netPink,div.networking,.optionclose.networking{
+  background-color: #8c55ea !important;
+}
+.demoBlue,div.demo,.optionclose.demo{
+  background-color: #62a3f0 !important;
+}
+.roundOrange,div.roundtable,.optionclose.roundtable{
+  background-color: #fd8d1b !important;
+}
+.classPurple,div.class,.optionclose.class{
+  background-color: #9f5cff !important;
+}
+.compGreen,div.competition,.optionclose.competition{
+  background-color: #35cda7 !important;
+}
+.webGreen,div.virtual,.optionclose.virtual{
+  background-color: #067efe !important;
+}
+.careerMagenta,div.career.fair,.optionclose.career.fair{
+  background-color: #ff33f5 !important;
+}
+.aiPurple,div.cyber.spotlight.series,.optionclose.cyber.spotlight.series{
+  background-color: #4c1c8f !important;
+}
+.cyber.spotlight.series,.signature.events{
+  color: #fff !important;
+  h4{
+    color: #fff !important;
+  }
+  button.signature.events,button.cyber.spotlight.series{
+    background-color: #fff !important;
+    color: #022058 !important;
+    outline: none;
+    &:hover{
+      color: #ffec26 !important;
+    }
+  }
+  button.class,button.roundtable,button.competition,button.demo,button.podcast,button.networking{
+    background-color: #022058 !important;
+    color: #fff !important;
+    outline: none;
+  }
+}
+.monday,.tuesday,.wednesday,.thursday,.friday,.full.week{
+  display: none;
+}
+.notSelected{
+  display: none;
+}
+.optionclose.signature.events,.optionclose.twitter.chat,.optionclose.podcast,.optionclose.in-person,.optionclose.networking,.optionclose.demo,.optionclose.roundtable,.optionclose.class,.optionclose.competition,.optionclose.cyber.spotlight.series,.optionclose.virtual,.optionclose.career.fair, .optionclose.hybrid{
+  font-family: 'montserrat',sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #fff !important;
+  border: none;
+  padding: 6px 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-top: 0px;
+  width: auto;
+  img{
+    width: 10px;
+  }
+}
+.unselect{
+  float: right;
+  width: 10px;
+  margin-left: 4px;
+  margin-top: 4px;
+  margin-bottom: 0px;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  font-size: 14px;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  font-size: 14px;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  font-size: 14px;
+}
+:-moz-placeholder { /* Firefox 18- */
+  font-size: 14px;
+}
+.exWrap{
+  .wrapCom:last-of-type{
+    .connectCom{
+      grid-row-end: 2;
+    }
+  }
+}
+.loadgif, .checkmark{
+  display: none;
+  width: 20px;
+  margin-right: 0px;
+}
+button.Registering{
+  background-color: #01102c !important;
+  color: #fff !important;
+  transition: background-color 150ms, color 150ms ease-in-out !important;
+  .loadgif,.loadstate{
+    display: inline-block !important;
+  }
+  .loadgif{
+    margin-bottom: -3px !important;
+    margin-right: 5px !important;
+  }
+}
+button.Registered{
+  background-color: #fff !important;
+  transition: background-color 150ms, color 150ms ease-in-out !important;
+  .loadgif{
+    display: none;
+  }
+  .checkmark,.loadstate{
+    display: inline-block !important;
+  }
+  .checkmark{
+    margin-bottom: -3px !important;
+    margin-right: 5px !important;
+  }
+}
+.desclink{
+  text-decoration: none;
+  font-style: italic;
+  font-weight: bold;
+  font-family: inherit;
+  color: #2682f0;
+}
+
+// New Registration Form Styles
+form input[type="submit"] {
+  background-color: #022058;
+  color: white;
+}
+
+form input[type="submit"]:disabled {
+  background-color: grey;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+form div.ticket-container label {
+  display: flex;
+  max-width: 330px;
+  margin-right: 25px;
+  grid-column: 1 / 3 !important;
+}
+
+.host-form-title {
+  max-width: 920px;
+  margin: 0 auto 35px;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 965px) {
+  .host-form-title {
+    margin-inline: 25px;
+  }
+}
+
+#newsletter-signup {
+  font-size: 22px !important;
+  max-width: 14px;
+  margin-right: 9px;
+}
+
+.react-select__control {
+  border: 2px solid black !important;
+  min-height: 45px !important;
+}

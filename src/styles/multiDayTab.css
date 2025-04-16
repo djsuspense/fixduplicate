@@ -1,0 +1,394 @@
+.multiDayTab {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #01102c;
+  margin-top: 0px;
+  z-index: 0;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.multiDayTab.agenda{
+  background-color: #fff;
+}
+.multiDayTab.dark {
+  background-color: #13152c;
+}
+.multiDayTab.dark .tabBar .header {
+  background-color: #13152c;
+  border: 1px solid #fff;
+  text-align: center;
+}
+.multiDayTab.dark .tabBar .header .barActive {
+  border-top: 1px solid #022058;
+}
+.multiDayTab.dark .fulldate {
+  color: #fff;
+}
+.dark .tabs div.header{
+  color: #fff !important;
+}
+.multiDayTab.dark .fulldate span.dayNum {
+  font-weight: 900;
+  color: #07db89;
+}
+
+.multiDayTab .fulldate span.dayNum {
+  font-weight: 900;
+  color: #07db89;
+}
+.multiDayTab .titlehead {
+  max-width: 1400px;
+  margin: 0 auto;
+  background-color: #fff;
+  margin-top: 0px;
+  margin-bottom: 80px;
+  padding-top: 60px;
+  font-family: 'sofia-pro', sans-serif;
+  font-size: 30px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: #022058;
+}
+.multiDayTab .tabBar {
+  max-width: 1400px;
+  margin: 0 auto;
+  font-family: 'sofia-pro', sans-serif;
+  font-size: 36px;
+  font-weight: 800;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  text-align: center;
+}
+.multiDayTab.videos .tabBar{
+  grid-template-columns: repeat(3, 1fr);
+}
+.multiDayTab .fulldate {
+  max-width: 1400px;
+  margin: 0 auto;
+  font-family: 'sofia-pro', sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+.multiDayTab.agenda .tabContent {
+  max-width: 1400px;
+  margin: 0 auto;
+  font-family: 'proxima-nova', sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+}
+.multiDayTab .tabs div.tabContent {
+  margin-top: 70px;
+}
+.multiDayTab .tabs div.sessions {
+  grid-column-start: 1;
+  grid-column-end: 7;
+}
+.multiDayTab div.session {
+  display: grid;
+  grid-template-columns: 270px 40px 1fr;
+}
+.multiDayTab .time {
+  font-family: 'proxima-nova', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  padding-left: 0px;
+  color: #022058;
+  margin-top: 24px;
+}
+.multiDayTab .sessiontitle {
+  font-family: 'Gilroy-ExtraBold', sans-serif;
+  font-size: 24px;
+  color: #8733ff;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+.multiDayTab .speakerOuterWrap {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.multiDayTab .speaker {
+  line-height: 20px;
+  margin-bottom: 30px;
+  margin-right: 30px;
+}
+.multiDayTab .speakerInnerWrap {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  grid-row-gap: 30px;
+}
+.multiDayTab .speakerInnerWrap img {
+  max-width: 80px;
+}
+.multiDayTab .name, .multiDayTab .mod {
+  font-family: 'Gilroy-SemiBold', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  color: #000;
+}
+.multiDayTab .mod {
+  color: #8733ff;
+}
+.multiDayTab .speakertitle {
+  font-family: 'Gilroy', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #010927;
+}
+.multiDayTab .tabs div.header {
+  background-color: #fff;
+  color: #01102c;
+  /*grid-row-start: 1;*/
+  height: 82px;
+  cursor: pointer;
+  border: 1px solid #000;
+  margin-right: 0px;
+  margin-left: 0px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+.multiDayTab .tabs div.header .monthday {
+  padding:  7px;
+}
+.active .monthday, .monthday:hover{
+  color: #07DB89;
+}
+.active .monthday a{
+  text-decoration: underline;
+  text-underline-offset: 10px;
+}
+.multiDayTab .tabs div.header:hover .barActive, .multiDayTab div.header.active:hover .barActive  {
+  display: none;
+  background-color: #0550f5;
+  height: 10px;
+}
+.multiDayTab .seperator {
+  color: #ee2a7b;
+}
+.multiDayTab .divider {
+  z-index: 9;
+}
+.multiDayTab .bulletbox {
+  display: block;
+  height: 30px;
+  width: 38px;
+  border: 1px solid #000;
+  background-color: #fff;
+  margin-top: 20px;
+  margin-left: 10px;
+  z-index: 99999;
+}
+.multiDayTab .squarebullet {
+  display: block;
+  background-color: #8733ff;
+  height: 10px;
+  width: 10px;
+  border-radius: 60px;
+  margin-left: 14px;
+  margin-top: 10px;
+}
+.multiDayTab .linedivider {
+  display: block;
+  height: 100%;
+  width: 30px;
+  border-right: 1px solid #000;
+}
+.multiDayTab .groupRight {
+  border: 1px solid #000;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.multiDayTab .header.active {
+  /* background-color: #fff !important; */
+}
+.multiDayTab .header.active .barActive {
+  display: none;
+  border-top: 1px solid #000;
+  background-color: #0550f5;
+  width: 100%;
+  height: 10px;
+}
+.multiDayTab .sessions .session:last-of-type .linedivider {
+  border: none;
+}
+.multiDayTab .barActive {
+  display: none;
+  background-color: #fff;
+  border-top: 1px solid #000;
+}
+.multiDayTab .fulldate {
+  font-family: 'sofia-pro', sans-serif;
+  text-transform: uppercase;
+  font-size: 28px;
+  color: #000;
+  margin-bottom: 30px;
+}
+
+.descWrap{
+  font-family: "sofia-pro",sans-serif;
+  color: #000;
+  font-size: 18px;
+}
+.descWrap a{
+  color: #07db89;
+  font-weight: 700;
+}
+@media only screen and (min-width: 1441px) and (max-width: 1600px) {
+  .multiDayTab .titlehead,
+  .multiDayTab .tabBar,
+  .multiDayTab .fulldate,
+  .multiDayTab.agenda .tabContent {
+    max-width: 940px;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1441px) {
+  .multiDayTab .titlehead,
+  .multiDayTab .tabBar,
+  .multiDayTab .fulldate,
+  .multiDayTab.agenda .tabContent {
+    max-width: 960px;
+  }
+}
+@media only screen and (max-width: 1440px) and (min-width: 1200px) {
+  .multiDayTab .titlehead,
+  .multiDayTab .tabBar,
+  .multiDayTab .fulldate,
+  .multiDayTab.agenda .tabContent {
+    max-width: 960px;
+  }
+  
+  .multiDayTab .tabBar {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+  }
+   .multiDayTab .tabs div.header.item4, .multiDayTab .tabs div.header.item5 {
+    /*grid-row-start: 2;*/
+  }
+}
+@media only screen and (max-width: 1199px) and (min-width: 767px) {
+  .multiDayTab .titlehead,
+  .multiDayTab .tabBar,
+  .multiDayTab .fulldate,
+  .multiDayTab.agenda .tabContent {
+    max-width: 680px;
+  }
+  .multiDayTab .tabBar {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+  }
+  .multiDayTab .tabBar div.header {
+    /* grid-row-start: 1; */
+    margin-left: 0px;
+    margin-right: 0px;
+    border-radius: 0px;
+    border-top: 1px solid #000;
+  }
+  /* .multiDayTab .tabs div.header.item0,  .multiDayTab .tabs div.header.item2, .multiDayTab .tabs div.header.item3 {
+    grid-row-start: 2;
+  }
+  .multiDayTab .tabs div.header.item1{
+    grid-row-start: 3;
+  }
+  .multiDayTab .tabs div.sessions {
+    grid-column-start: 1;
+    grid-column-end: 7;
+  } */
+  .multiDayTab .tabs div.header.item3,.multiDayTab .tabs div.header.item4,.multiDayTab .tabs div.header.item5{
+    /*grid-row-start: 2;*/
+  }
+  .multiDayTab .speakerOuterWrap {
+    grid-template-columns: 1fr;
+  }
+  .multiDayTab .active .caretUp {
+    display: block;
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+  .multiDayTab .caretDown {
+    display: block;
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+  .multiDayTab .active .caretDown {
+    display: none;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .multiDayTab .titlehead,
+  .multiDayTab .tabBar,
+  .multiDayTab .fulldate,
+  .multiDayTab.agenda .tabContent {
+    max-width: 95%;
+  }
+  .multiDayTab .tabBar {
+    font-size: 18px;
+    display: block;
+  }
+  .multiDayTab .tabs div.header {
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-radius: 0px;
+    border-top: 1px solid #000;
+    height: 48px;
+  }
+  .multiDayTab .tabs div.tabContent {
+    margin-top: 30px;
+  }
+  .multiDayTab .tabs div.tabContent .fulldate {
+    margin-bottom: 10px;
+  }
+  /* .multiDayTab div.header {
+    grid-row: span 1;
+    grid-column: span 1;
+  } */
+  /* .multiDayTab .tabs div.header.item0, .multiDayTab .tabs div.header.item2, .multiDayTab .tabs div.header.item3, .multiDayTab .tabs div.header.item4 {
+    grid-row-start: 2;
+
+  }
+  .multiDayTab .tabs div.header.item1{
+    grid-row-start: 3;
+  }
+  .multiDayTab .tabs div.sessions {
+    grid-column-start: 1;
+    grid-column-end: 7;
+  } */
+  .multiDayTab div.session {
+    grid-template-columns: 1fr;
+  }
+  .multiDayTab .time {
+    margin-bottom: 15px;
+  }
+  .multiDayTab .fulldate {
+    margin-bottom: 0px;
+    font-size: 18px;
+  }
+  .multiDayTab .divider {
+    display: none;
+  }
+  .multiDayTab .speakerOuterWrap {
+    grid-template-columns: 1fr;
+  }
+  .multiDayTab .groupRight {
+    margin-bottom: 0px;
+  }
+  .multiDayTab .active .caretUp {
+    display: block;
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+  .multiDayTab .caretDown {
+    display: block;
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+  .multiDayTab .active .caretDown {
+    display: none;
+  }
+}

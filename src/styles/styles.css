@@ -1,0 +1,1320 @@
+/* fonts */
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url("https://cdn.fedscoop.com/upgather/it-modernization-summit/fonts/Poppins-Regular.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Poppins-Medium";
+  src: url("https://cdn.fedscoop.com/upgather/it-modernization-summit/fonts/Poppins-Medium.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Poppins-Bold";
+  src: url("https://cdn.fedscoop.com/upgather/it-modernization-summit/fonts/Poppins-Bold.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Poppins-ExtraBold";
+  src: url("https://cdn.fedscoop.com/upgather/it-modernization-summit/fonts/Poppins-ExtraBold.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Poppins-Black";
+  src: url("https://cdn.fedscoop.com/upgather/it-modernization-summit/fonts/Poppins-Black.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+h1.spotlight{
+  margin-bottom: 0px;
+  font-family: 'sofia-pro',sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  color: #000;
+  margin-top: 0px;
+}
+.divbreak,.specdate,.daynum{
+  font-family: "proxima-nova",sans-serif !important;
+  font-size: 30px;
+  color: #022058 !important;
+}
+
+.daynum{
+  font-weight: 900 !important;
+}
+
+.toggleContainer {
+  height: 75px;
+}
+.welcome-message {
+  padding-top: 140px !important;
+}
+.welcome-message div.branding{
+  margin-bottom: 80px;
+  margin-left: -6%;
+}
+.welcome-message a,
+.shortcuts a.page {
+  background-color: #43ef89 !important;
+  
+  color: #000 !important;
+  font-family: "Poppins-ExtraBold", sans-serif !important;
+  font-weight: 800 !important;
+  background-image: none !important;
+  letter-spacing: 0px !important;
+  -moz-box-shadow:    2px 2px 4px 4px rgba(0,0,0,0.3);
+  -webkit-box-shadow: 2px 2px 4px 4px rgba(0,0,0,0.3);
+  box-shadow:         2px 2px 4px 4px rgba(0,0,0,0.3);
+}
+.welcome-message a:hover,
+.shortcuts a.page:hover {  
+  color: #fff !important;
+}
+/* NAVIGATION */
+/*nav {
+  min-height: 75px !important;
+  height: 75px !important;
+  background: #000 !important;
+}
+.pages {
+  padding-top: 26px !important;
+}
+nav .pages a.page {
+  font-family: "Poppins-ExtraBold", sans-serif;
+  color: #fff !important;
+}
+nav .pages a.page.login {
+  color: #43ef89 !important;
+}
+nav .pages a.page.login:hover {
+  color: #8733ff !important;
+}
+nav .pages a.page:hover {
+  color: #8733ff !important;
+}*/
+.coLogo {
+  max-width: 174px;
+  margin-left: 0px;
+  margin-bottom: 80px;
+}
+
+
+.shortcuts div {
+  border: none !important;
+}
+
+/* login/register form */
+
+section h2 {
+  font-family: "proxima-nova", sans-serif !important;
+  font-weight: 800 !important;
+}
+input {
+  font-family: "proxima-nova", sans-serif !important;
+  border-radius: 0px !important;
+}
+input[type="submit"] {
+  font-family: "sofia-pro", sans-serif !important;
+  font-weight: 800 !important;
+  color: #fff !important;
+  background-image: none !important;
+  letter-spacing: 1px !important;
+  border: none;
+  background-color: #13152c !important;
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  appearance: none !important;
+}
+input[type="submit"]:focus{
+  color: #fff;
+}
+
+input[type="submit"]:hover{
+  background-color: #07db89 !important;
+  color: #fff !important;
+  cursor: pointer;
+}
+/*
+.divider h2 {
+  color: #8733ff !important;
+}*/
+
+.divider .circle,
+.divider .line {
+  color: #000 !important;
+}
+
+input:focus {
+  color: #022058;
+  border-left: 10px solid #07db89 !important;
+}
+
+.container input:checked ~ .checkmark,
+.container2 input:checked ~ .checkmark2 {
+  background-color: #022058 !important;
+}
+
+.brandingReg a.assistance h2 {
+  color: #8733ff !important;
+  font-size: 18px !important;
+}
+p.lg.info a {
+  font-size: 12px !important;
+}
+.brandingReg {
+  background-image: 
+    url(https://sng-global-web-assets.s3.us-east-1.amazonaws.com/images/ai-week/2025/aiweek25desk-reg-modal.png) !important;
+  background-position: left top !important;
+  background-size: 100% !important;
+}
+
+.brandingReg span {
+  display: none !important;
+}
+@media only screen and (min-width: 1600px) {
+  /*body {
+    background: url(https://cdn.fedscoop.com/upgather/it-modernization-summit/background2.png) !important;
+    background-position: 0px 20px !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+  }*/
+}
+@media only screen and (min-width: 1200px) {
+  .welcome-message {
+    margin-right: 0px !important;
+  }
+}
+@media only screen and (min-width: 1025px) {
+  /*body {
+    background: url(https://cdn.fedscoop.com/upgather/it-modernization-summit/background2.png) !important;
+    background-position: 0px -50px !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+  }*/
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  /*body {
+    background: url(https://cdn.fedscoop.com/upgather/it-modernization-summit/background2.png) !important;
+    background-position: 0px -50px !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+  }*/
+}
+@media only screen and (min-width: 415px) and (max-width: 768px) {
+  /*body {
+    background: url(https://cdn.fedscoop.com/upgather/it-modernization-summit/background2.png) !important;
+    background-position: 0px 50px !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+  }*/
+  .welcome-message a {
+    font-size: 20px !important;
+    width: 99% !important;
+  }
+  .socialm {
+    margin-left: 30px !important;
+  }
+}
+@media only screen and (max-width: 414px) {
+  /*body {
+    background: url(https://cdn.fedscoop.com/upgather/it-modernization-summit/Login_image_mobile.png) !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+    background-position: 0px 70px !important;
+  }*/
+  .welcome-message a {
+    font-size: 20px !important;
+    width: 99% !important;
+  }
+  .socialm {
+    display: inline-block !important;
+    margin-left: 30px !important;
+  }
+  .welcome-message div.branding{
+    margin-bottom: 50px;
+  }
+  .welcome-message{
+    padding-top: 80px !important;
+  }
+}
+@media only screen and (min-width: 375px) and (max-width: 411px) {
+  /*body {
+    background: url(https://cdn.fedscoop.com/upgather/it-modernization-summit/Login_image_mobile.png) !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+    background-position: 0px 70px !important;
+  }*/
+}
+
+@media only screen and (min-width: 360px) and (max-width: 375px) {
+  /*body {
+    background: url(https://cdn.fedscoop.com/upgather/it-modernization-summit/background2.png) !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+    background-position: -400px 0px !important;
+  }*/
+}
+
+@media only screen and (min-width: 360px) and (max-width: 375px) and (max-height: 812px) {
+  /*body {
+    background: url(https://cdn.fedscoop.com/upgather/it-modernization-summit/Login_image_mobile.png) !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+    background-position: 0px 70px !important;
+  }*/
+  .welcome-message div.branding{
+    margin-bottom: 50px;
+  }
+  .welcome-message{
+    padding-top: 80px !important;
+  }
+}
+@media only screen and (min-width: 360px) and (max-width: 375px) and (max-height: 667px) {
+  /*body {
+    background: url(https://cdn.fedscoop.com/upgather/it-modernization-summit/Login_image_mobile.png) !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+    background-position: 0px 70px !important;
+  }*/
+  .sponsor-list .sponsor {
+    width: auto !important;
+    height: auto !important;
+    margin-bottom: 20px !important;
+  }
+  hr {
+    margin-bottom: 20px !important;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 360px) {
+  /*body {
+    background: url(https://cdn.fedscoop.com/upgather/it-modernization-summit/Login_image_mobile.png) !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+    background-position: 0px 70px !important;
+  }*/
+  .sponsor-list .sponsor {
+    width: auto !important;
+    height: auto !important;
+    margin-bottom: 20px !important;
+  }
+  hr {
+    margin-bottom: 20px !important;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .brandingReg {
+    background-image: 
+      url(https://sng-global-web-assets.s3.us-east-1.amazonaws.com/images/ai-week/2025/aiweek25mobile-reg-modal.png) !important;
+    background-position: left top !important;
+    background-size: 100% !important;
+    height: 690px !important;
+  }
+  aside {
+    background-color: transparent !important;
+    grid-template: 20px 1fr 75px / 20px 1fr 1fr 20px !important;
+    width: 90vw !important;
+    height: 80vh !important;
+    margin: 0 auto !important;
+  }
+}
+@media only screen and (max-width: 600px){
+  .brandingReg{
+    height: 560px !important;
+  }
+}
+@media only screen and (max-width: 540px) {
+  .brandingReg {
+    background-image: 
+      url(https://sng-global-web-assets.s3.us-east-1.amazonaws.com/images/ai-week/2025/aiweek25mobile-reg-modal.png) !important;
+    background-position: left top -60px !important;
+    background-size: cover !important;
+    background-color: #13152c !important;
+    height: 510px !important;
+  }
+  .deskhead{
+    display: none;
+  }
+}
+@media only screen and (max-width: 430px){
+  .brandingReg {
+    background-image: 
+      url(https://sng-global-web-assets.s3.us-east-1.amazonaws.com/images/ai-week/2025/aiweek25mobile-reg-modal.png) !important;
+    background-position: left top !important;
+    background-size: 100% !important;
+    background-color: #000 !important;
+    height: 410px !important;
+  }
+}
+@media only screen and (max-width: 414px) {
+  .brandingReg {
+    background-image: 
+      url(https://sng-global-web-assets.s3.us-east-1.amazonaws.com/images/ai-week/2025/aiweek25mobile-reg-modal.png) !important;
+    background-position: left top !important;
+    background-size: 100% !important;
+    background-color: #000 !important;
+    height: 390px !important;
+  }
+}
+@media only screen and (max-width: 411px) {
+  .brandingReg {
+    background-image: 
+      url(https://sng-global-web-assets.s3.us-east-1.amazonaws.com/images/ai-week/2025/aiweek25mobile-reg-modal.png) !important;
+    background-position: left top !important;
+    background-size: 100% !important;
+    background-color: #000 !important;
+    height: 380px !important;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .brandingReg {
+    background-image: 
+      url(https://sng-global-web-assets.s3.us-east-1.amazonaws.com/images/ai-week/2025/aiweek25mobile-reg-modal.png) !important;
+    background-position: left top !important;
+    background-size: 100% !important;
+    background-color: #000 !important;
+    height: 360px !important;
+  }
+}
+@media only screen and (max-width: 360px){
+  .brandingReg {
+    background-image: 
+      url(https://sng-global-web-assets.s3.us-east-1.amazonaws.com/images/ai-week/2025/aiweek25mobile-reg-modal.png) !important;
+    background-position: left top !important;
+    background-size: 100% !important;
+    background-color: #000 !important;
+    height: 350px !important;
+  }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 320px) {
+  
+  /*body {
+    background: url(https://cdn.fedscoop.com/upgather/it-modernization-summit/Login_image_mobile.png) !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+    background-position: 0px 70px !important;
+  }*/
+  
+  .brandingReg {
+    background-image: 
+      url(https://sng-global-web-assets.s3.us-east-1.amazonaws.com/images/ai-week/2025/aiweek25mobile-reg-modal.png) !important;
+    background-position: left top !important;
+    background-size: 100% !important;
+    background-color: #000 !important;
+    height: 320px !important;
+  }
+}
+@media only screen and (min-width: 100px) and (max-width: 280px) {
+  /*body {
+    
+    background: url(https://cdn.fedscoop.com/upgather/it-modernization-summit/Login_image_mobile.png) !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-color: #000 !important;
+    background-position: 0px 70px !important;
+    
+  }*/
+  .brandingReg {
+    background-image: 
+      url(https://sng-global-web-assets.s3.us-east-1.amazonaws.com/images/ai-week/2025/aiweek25mobile-reg-modal.png) !important;
+    background-position: left top !important;
+    background-size: 100% !important;
+    background-color: #000 !important;
+    height: 380px !important;
+  }
+}
+
+/* agenda styling */
+
+.tabs {
+  grid-template-rows: 1fr !important;
+  background-color: #fff;
+}
+.dark .tabs{
+  background-color: #13152c;
+}
+.tabs .header {
+  /*display: none !important;*/
+}
+.tabs div.sessions {
+  /*margin-top: 0px !important;*/
+}
+
+.sessions .fulldate {
+  /*display: none !important;*/
+}
+.sessionWrap .blocks img{
+  margin-bottom: 0px;
+}
+.time {
+  font-family: "sofia-pro", sans-serif !important;
+  font-weight: 700 !important;
+}
+.squarebullet {
+  background-color: #fff !important;
+}
+.sessiontitle {
+  font-family: "sofia-pro", sans-serif !important;
+  color: #07db89 !important;
+  font-weight: 800 !important;
+}
+.name {
+  font-family: "sofia-pro", sans-serif !important;
+  text-transform: none !important;
+  color: #000 !important;
+  font-weight: 800 !important;
+}
+.mod {
+  font-family: "sofia-pro", sans-serif !important;
+  color: #000 !important;
+}
+.speakertitle {
+  font-family: "sofia-pro", sans-serif !important;
+  font-weight: 400 !important;
+  color: #000 !important;
+}
+.watchNow {
+  text-align: right;
+}
+
+.watchNow a {
+  font-family: "sofia-pro", sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  background-color: #edecec;
+  color: #fff !important;
+  text-decoration: none;
+  padding: 10px 20px;
+  pointer-events: none;
+  cursor: default;
+}
+.watchNow.active a {
+  color: #13152c !important;
+  background-color: #07db89!important;
+  pointer-events: all;
+  cursor: pointer;
+}
+
+.watchNow.active a:hover {
+  color: #fff !important;
+}
+
+@media only screen and (min-width: 120px) and (max-width: 768px) {
+  .watchNow.active {
+    text-align: left;
+  }
+}
+
+/* tech expo styling */
+.page__tech-expo {
+  background-color: #fff;
+}
+.page__tech-expo h1 {
+  font-family: "Poppins-Black", sans-serif !important;
+  font-size: 48px;
+  text-transform: uppercase;
+  font-weight: 900 !important;
+  margin-bottom: 30px !important;
+}
+.page__tech-expo h2 {
+  font-family: "Poppins-ExtraBold", sans-serif !important;
+  font-weight: 800 !important;
+  color: #8733ff !important;
+  letter-spacing: 0px !important;
+}
+.page__tech-expo div {
+  font-family: "Poppins-Regular", sans-serif !important;
+  font-weight: 400 !important;
+}
+.page__tech-expo div:last-of-type {
+  background-color: #fff;
+}
+.page__tech-expo .content {
+  background-color: #fff !important;
+}
+.pages {
+  background-color: #000 !important;
+}
+
+.ytvid img {
+  max-height: 362px;
+  width: 100%;
+}
+@media only screen and (min-width: 120px) and (max-width: 768px) {
+  .ytvid img {
+    max-height: 250px;
+    width: 100%;
+  }
+}
+
+.resourceBackBtn {
+  font-family: "Poppins-Regular", sans-serif !important;
+  font-weight: 400 !important;
+}
+
+/* Sponsors styling */
+.page__sponsors {
+  background-color: #fff;
+}
+.page__sponsors section {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.page__sponsors h1 {
+  font-family: "Poppins-Black", sans-serif !important;
+  font-size: 48px;
+  line-height: 2px;
+  text-transform: uppercase;
+  font-weight: 900 !important;
+  margin-bottom: 60px !important;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.page__sponsors h2 {
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  display: inline-block;
+  vertical-align: middle;
+  text-transform: capitalize;
+  color: #000;
+}
+.page__sponsors .content {
+  background-color: #fff !important;
+}
+.page__sponsors div:last-of-type {
+  background-color: #fff;
+}
+.page__sponsors .sponsor-list {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.page__sponsors .sponsor-list .sponsor {
+  width: 280px;
+  padding: 20px;
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.page__sponsors .sponsor-item {
+  text-align: center;
+}
+
+@media only screen and (max-width: 1268px){
+
+  .page__sponsors section {
+      max-width: 890px !important;
+  }
+}
+@media only screen and (max-width: 960px){
+
+  .page__sponsors section {
+      max-width: 660px !important;
+  }
+}
+@media only screen and (max-width: 768px){
+
+  .page__sponsors section {
+      max-width: 425px !important;
+  }
+}
+/* modal */
+.modal,
+.modal .boothBtn {
+  background-color: #000 !important;
+}
+.modal .boothBtn {
+  font-family: "Poppins-ExtraBold", sans-serif !important;
+  font-weight: 800 !important;
+  letter-spacing: 0px !important;
+  background-color: #8733ff !important;
+  color: #fff !important;
+  font-size: 20px !important;
+}
+
+.modal{
+  background-color: rgba(0,0,0,0.9) !important;
+}
+
+.boothBtn:hover {
+  background-color: #43ef89 !important;
+}
+.viewBtn {
+  font-family: "Poppins-Regular", sans-serif !important;
+
+  letter-spacing: 0px !important;
+  color: #43ef89 !important;
+  font-size: 20px !important;
+  background-color: #000 !important;
+}
+.viewBtn:hover {
+  color: #8733ff !important;
+}
+.modal .sponBox {
+  font-family: "Poppins-Regular", sans-serif !important;
+  font-weight: 400 !important;
+  color: #000 !important;
+  font-size: 17px !important;
+  line-height: 24px !important;
+}
+.modal .readMoreBtn {
+  font-family: "Poppins-ExtraBold", sans-serif !important;
+  font-weight: 800 !important;
+  line-height: 15px !important;
+  font-size: 17px !important;
+  color: #8733ff !important;
+}
+
+/* watch live page */
+.toggleAgenda {
+  color: #fff !important;
+  background-color: #13152c !important;
+  border-bottom: 2px solid #fff;
+}
+.sessionWrap .blocks{
+  border: 1px solid #07db89 !important;
+}
+/* for video sections with 2 or less videos */
+/*div.videos.tabContent:nth-of-type(5) .sessionWrap {
+  grid-template-columns: repeat(2, 582px);
+  max-width: 1400px;
+  margin: 0 auto;
+}
+@media screen and (min-width: 1441px) and (max-width: 1600px){
+  div.videos.tabContent:nth-of-type(5) .sessionWrap {
+    grid-template-columns: repeat(2, 505px);
+    max-width: 940px;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1440px){
+  div.videos.tabContent:nth-of-type(5) .sessionWrap {
+    grid-template-columns: repeat(2, 444px);
+    max-width: 960px;
+  }
+}
+
+@media screen and (min-width: 767px) and (max-width: 1199px){
+  div.videos.tabContent:nth-of-type(5) .sessionWrap {
+    grid-template-columns: repeat(2,390px);
+    max-width: 680px;
+  }
+}
+@media screen and (max-width: 768px){
+  div.videos.tabContent:nth-of-type(5) .sessionWrap {
+    grid-template-columns: 1fr 1fr;
+    max-width: 100%;
+  }
+}
+*/
+h1.titlecheck {
+  font-family: "Poppins-Black", sans-serif !important;
+  font-weight: 900 !important;
+  font-size: 77px !important;
+  text-align: center !important;
+  margin-left: 0px !important;
+}
+.vidTitle {
+  font-family: "proxima-nova", sans-serif !important;
+  font-weight: 700 !important;
+  position: absolute !important;
+  bottom: 15px !important;
+  line-height: 22px;
+}
+@media only screen and (max-width: 411px) {
+  h1.titlecheck {
+    font-size: 28px !important;
+  }
+  .vidTitle {
+    font-size: 10px !important;
+    bottom: 8px !important;
+  }
+  .titlehead{
+    margin-bottom: 40px !important;
+  }
+  div.sessions{
+    margin-top: 30px !important;
+  }
+}
+@media only screen and (min-width: 120px) and (max-width: 320px) {
+  h1.titlecheck {
+    font-size: 30px !important;
+  }
+  .sponsor-list .sponsor {
+    width: auto !important;
+    height: auto !important;
+    margin-bottom: 20px !important;
+  }
+  hr {
+    margin-bottom: 20px !important;
+  }
+}
+
+.videoWrap {
+  /*background-image: url("https://cdn.fedscoop.com/upgather/it-modernization-summit/vidwrapbg.png");*/
+  background-color: #fff;
+  /*background-image: url('../images/maze_bg_20pct.png');*/
+  background-repeat: repeat !important;
+  background-size: contain;
+}
+.videoWrap .container {
+  grid-template-columns: 1fr !important;
+  /*grid-template-rows: 130px 1fr !important;*/
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 95% !important;
+}
+.DateBanner {
+  display: grid;
+  grid-template-columns: 9fr 3fr;
+  grid-column-gap: 50px;
+  margin-bottom: 20px;
+  align-items: end;
+}
+
+.video div {
+  max-width: 1200px !important;
+}
+.imageEvent {
+  width: 100%;
+  /*max-width: 300px;*/
+  margin-top: 0px;
+}
+.imageEvent img{
+  max-width: 230px;
+  margin-bottom: 5px;
+}
+.imageEvent_mobile {
+  width: 100%;
+  max-width: 300px;
+  display: none;
+}
+.imageClient {
+  width: 100%;
+  max-width: 150px;
+  margin-top: 12px;
+  display: none;
+}
+.imageProducer {
+  width: 100%;
+  max-width: 137px;
+  margin-top: 0px;
+  justify-self: flex-end;
+  margin-bottom: 0px;
+}
+.imageProducer_mobile {
+  display: none;
+  width: 100%;
+  max-width: 137px;
+  margin-top: 0px;
+  justify-self: flex-end;
+  margin-bottom: 0px;
+}
+.followtxt {
+  font-family: "sofia-pro", sans-serif !important;
+  font-size: 30px !important;
+  font-weight: 700 !important;
+  color: #fff;
+}
+@media only screen and (max-width: 768px) {
+  .DateBanner {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    grid-template-columns: 1fr;
+  }
+  .titlehead{
+    margin-bottom: 40px !important;
+  }
+  div.sessions{
+    margin-top: 30px !important;
+  }
+}
+@media only screen and (max-width: 540px){
+  .videoWrap{
+    padding-top: 20px !important;
+  }
+  .imageEvent {
+    grid-area: 2;
+    text-align: center;
+    
+  }
+  .imageProducer_mobile {
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    max-width: 137px;
+    justify-self: center;
+  }
+  .imageProducer{
+    display: none;
+  }
+  h1.spotlight,.divbreak,.specdate,.daynum{
+    font-size: 26px;
+  }
+}
+@media only screen and (max-width: 428px) {
+  .videoWrap {
+    /*background-image: url("https://cdn.fedscoop.com/upgather/it-modernization-summit/dark_wavepattern_mobile.jpg");*/
+    padding-top: 20px !important;
+    padding-bottom: 40px !important;
+  }
+  .videoWrap .container {
+    /*grid-template-rows: 130px 1fr !important;*/
+  }
+  .DateBanner {
+    grid-template-columns: 1fr;
+    /*grid-template-rows: repeat(2, 1fr);*/
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    margin-top: 0px !important;
+    margin-bottom: 20px;
+  }
+  .imageEvent {
+    grid-area: 2;
+    text-align: center;
+    
+  }
+  .imageProducer {
+    grid-area: 1;
+    max-width: 90%;
+    justify-self: center;
+  }
+  h1.spotlight{
+    font-size: 30px;
+  }
+  .vidTitle{
+    line-height: 20px !important;
+    bottom: 10px !important;
+  }
+  .titlehead{
+    margin-bottom: 40px !important;
+  }
+  div.sessions{
+    margin-top: 30px !important;
+  }
+}
+@media only screen and (max-width: 414px) {
+  .videoWrap {
+    /*background-image: url("https://cdn.fedscoop.com/upgather/it-modernization-summit/dark_wavepattern_mobile.jpg");*/
+    padding-top: 20px !important;
+    padding-bottom: 40px !important;
+  }
+  .videoWrap .container {
+    /*grid-template-rows: 130px 1fr !important;*/
+  }
+  .DateBanner {
+    grid-template-columns: 1fr;
+    
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    margin-top: 0px !important;
+  }
+  .imageEvent {
+    grid-area: 2;
+    text-align: center;
+    
+  }
+  .imageProducer {
+    grid-area: 1;
+    max-width: 90%;
+    justify-self: center;
+  }
+  h1.spotlight,.divbreak,.specdate,.daynum{
+    font-size: 26px;
+  }
+  .imageEvent_mobile {
+    grid-area: 1 / 1 / 2 / 3;
+    margin-left: 30px;
+    max-width: 330px;
+    /*display: block;*/
+  }
+  .imageClient {
+    grid-area: 2 / 1 / 3 / 2;
+    max-width: 120px;
+  }
+  
+  .vidTitle{
+    line-height: 20px !important;
+    bottom: 10px !important;
+  }
+  .titlehead{
+    margin-bottom: 40px !important;
+  }
+  div.sessions{
+    margin-top: 30px !important;
+  }
+}
+@media only screen and (max-width: 411px) {
+  .videoWrap {
+    /*background-image: url("https://cdn.fedscoop.com/upgather/it-modernization-summit/dark_wavepattern_mobile.jpg");*/
+    padding-top: 20px !important;
+    padding-bottom: 40px !important;
+  }
+  .videoWrap .container {
+    /*grid-template-rows: 130px 1fr !important;*/
+  }
+  .DateBanner {
+    grid-template-columns: 1fr;
+    
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    margin-top: 0px !important;
+  }
+  
+  .imageEvent {
+    grid-area: 2;
+    text-align: center;
+    
+  }
+  .imageProducer {
+    grid-area: 1;
+    max-width: 90%;
+    justify-self: center;
+  }
+  h1.spotlight,.divbreak,.specdate,.daynum{
+    font-size: 26px;
+  }
+  .imageEvent_mobile {
+    grid-area: 1 / 1 / 2 / 3;
+    margin-left: 30px;
+    
+    max-width: 330px;
+  }
+  .imageClient {
+    grid-area: 2 / 1 / 3 / 2;
+    max-width: 120px;
+  }
+  
+}
+@media only screen and (max-width: 375px) {
+  .videoWrap {
+    /*background-image: url("https://cdn.fedscoop.com/upgather/it-modernization-summit/dark_wavepattern_mobile.jpg");*/
+    padding-top: 20px !important;
+    padding-bottom: 40px !important;
+  }
+  .videoWrap .container {
+    /*grid-template-rows: 130px 1fr !important;*/
+  }
+  .DateBanner {
+    grid-template-columns: 1fr;
+    /*grid-template-rows: repeat(2, 1fr);*/
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+  }
+  .imageEvent {
+    grid-area: 2;
+    text-align: center;
+    
+  }
+  .imageProducer {
+    grid-area: 1;
+    max-width: 90%;
+    justify-self: center;
+  }
+  h1.spotlight,.divbreak,.specdate,.daynum{
+    font-size: 26px;
+  }
+  .imageEvent_mobile {
+    grid-area: 1 / 1 / 2 / 3;
+    margin-left: 30px;
+    max-width: 295px;
+   
+    
+  }
+  .imageClient {
+    grid-area: 2 / 1 / 3 / 2;
+    max-width: 120px;
+  }
+  
+  h1.titlecheck {
+    font-size: 28px !important;
+  }
+  .sponsor-list .sponsor {
+    width: auto !important;
+    height: auto !important;
+    margin-bottom: 20px !important;
+  }
+  hr {
+    margin-bottom: 20px !important;
+  }
+  .vidTitle {
+    font-size: 12px !important;
+    bottom: 8px !important;
+    line-height: 16px !important;
+  }
+  .titlehead{
+    margin-bottom: 40px !important;
+  }
+  div.sessions{
+    margin-top: 30px !important;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 360px) {
+  .videoWrap {
+    /*background-image: url("https://cdn.fedscoop.com/upgather/it-modernization-summit/dark_wavepattern_mobile.jpg");*/
+    padding-top: 20px !important;
+    padding-bottom: 40px !important;
+  }
+  .videoWrap .container {
+    grid-template-rows: 1fr !important;
+  }
+  .DateBanner {
+    grid-template-columns: 1fr;
+    
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    margin-top: 0px !important;
+    margin-bottom: 20px;
+  }
+  .imageEvent {
+    grid-area: 2;
+    text-align: center;
+    
+  }
+  .imageProducer {
+    grid-area: 1;
+    max-width: 90%;
+    justify-self: center;
+  }
+  h1.spotlight,.divbreak,.specdate,.daynum{
+    font-size: 26px;
+  }
+  h1.titlecheck {
+    font-size: 28px !important;
+  }
+  .sponsor-list .sponsor {
+    width: auto !important;
+    height: auto !important;
+    margin-bottom: 20px !important;
+  }
+  hr {
+    margin-bottom: 20px !important;
+  }
+  .vidTitle {
+    font-size: 12px !important;
+    
+  }
+}
+@media only screen and (min-width: 100px) and (max-width: 280px) {
+  .videoWrap {
+    /*background-image: url("https://cdn.fedscoop.com/upgather/it-modernization-summit/dark_wavepattern_mobile.jpg");*/
+    padding-top: 20px !important;
+    padding-bottom: 40px !important;
+  }
+  .videoWrap .container {
+    /*grid-template-rows: 130px 1fr !important;*/
+  }
+  .DateBanner {
+    grid-template-columns: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    margin-top: 0px !important;
+  }
+  .imageEvent {
+    grid-area: 2;
+    text-align: center;
+    
+  }
+  .imageProducer {
+    grid-area: 1;
+    max-width: 90%;
+    justify-self: center;
+  }
+  h1.spotlight,.divbreak,.specdate,.daynum{
+    font-size: 26px;
+  }
+  .imageEvent_mobile {
+    grid-area: 1 / 1 / 2 / 3;
+    margin-left: 0px;
+    
+  }
+  .imageClient {
+    grid-area: 2 / 1 / 3 / 2;
+    max-width: 120px;
+  }
+  
+  .vidTitle {
+    font-size: 8px !important;
+    
+  }
+  .titlehead{
+    margin-bottom: 40px !important;
+  }
+  div.sessions{
+    margin-top: 30px !important;
+  }
+}
+a.tButton {
+  font-family: "sofia-pro", sans-serif !important;
+  font-weight: 800 !important;
+  letter-spacing: 0px !important;
+  color: #13152c !important;
+  background-color: #07db89 !important;
+  font-size: 24px !important;
+}
+a.tButton:hover {
+  color: #fff!important;
+  border: none !important;
+}
+
+a.tButton .blockleft{
+  padding-top: 2px !important;
+  padding-bottom: 8px !important;
+}
+.caretblock {
+  border-left: none !important;
+}
+.blocks {
+  position: relative;
+}
+.blocks button{
+  background-color: #01102c !important;
+}
+.csoverlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.csoverlay .play {
+  display: none;
+}
+.csoverlay .coming-soon {
+  display: none;
+}
+.blocks:hover .csoverlay .play {
+  display: block;
+  cursor: pointer;
+  opacity: 0.9;
+}
+.blocks:hover .csoverlay .coming-soon {
+  display: none;
+}
+.on-demand:hover .csoverlay .coming-soon {
+  display: block;
+  opacity: 0.9;
+}
+
+.blocks.on-demand img {
+  -webkit-filter: none !important;
+  filter: none !important;
+}
+
+.togBtn {
+  background-color: #000 !important;
+}
+.SUSE.Rancher.Government.Solutions {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  width: 80% !important;
+  top: 25%;
+}
+
+.M2 {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  width: 40% !important;
+  top: 25%;
+}
+@media only screen and (max-width: 414px){
+  .industry div {
+      margin-right: 9px!important;
+  }
+}
+.video-js{
+  background-color: transparent !important;
+}
+.noVidText{
+  font-size: 20px;
+  color: #2682f0;
+}
+.noVidSubText{
+  color: #fff !important;
+}
+.sublink{
+  color: #ffec26 !important;
+}
+.newsletter-signup {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: left;
+  font-size: 18px !important;
+  grid-area: 6/1/span 1/span 2;
+  text-align: left;
+}
+#privacy-container {
+  grid-area: initial !important;
+  grid-column: 1/3 !important;
+}
+.headerb{
+  height: 72px;
+}
+
+/* Update AI Chatbot Spacing Adjustment Styles */
+.navigation2021-module--horizontal__items--2qtoG .aichatbot {
+  position: fixed;
+  min-width: fit-content;
+  right: calc(270px + 20px);
+  top: 0;
+  transition: all 250ms ease-in-out;
+}
+
+/* social icons sidebar */
+@media screen and (min-width: 767px){
+  .socials-hicons {
+    position: fixed;
+    top: 50%;
+    margin-top: -100px;
+    right: 5px;
+    z-index: 9999999;
+  }
+
+  .social-fb,.social-x,.social-linkedin,.social-email{
+    margin-bottom: 8px;
+  }
+  .socials-hicons a{
+    text-decoration: none;
+  }
+  .socials-hicons a img{
+    width: 42px;
+    margin-bottom: 8px;
+  }
+}
+@media screen and (max-width: 767px){
+  .socials-hicons{
+    display: none;
+  }
+}

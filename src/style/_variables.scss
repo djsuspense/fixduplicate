@@ -1,0 +1,23 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: rgb(155, 82, 0);
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+  background-color: #333333;
+}
+section.container {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(186px, 1fr));
+  // grid-template-columns: repeat(5, 1fr);
+}
+section.container > * {
+  background-color: #333;
+  height: 200px;
+}
+// section.container  div {
+//     width: 200px;
+//     height: 200px;
+//     background-color: #333;
+// }

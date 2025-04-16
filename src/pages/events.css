@@ -1,0 +1,36 @@
+.eventswrap{
+    display: inherit;
+    margin-bottom: 0px;
+    
+}
+.coming-soon{
+    font-family: 'sofia-pro', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 100px;
+}
+.sort.fields{
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+    grid-column-gap: 30px;
+}
+.commbgwhite{
+    background-color: #fff;
+}
+@media only screen and (min-width: 1200px) and (max-width: 1440px){
+    .sort.fields{
+        grid-template-columns: 4fr 8fr;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px){
+    .sort.fields{
+        grid-template-columns: 6fr 6fr;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px){
+    .sort.fields{
+        grid-template-columns: 1fr;
+    }
+}

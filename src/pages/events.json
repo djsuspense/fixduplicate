@@ -1,0 +1,571 @@
+[
+  {
+    "category": "virtual",
+    "date": "2025-04-20T08:00",
+    "registration_url": "https://aiforcommunitygood.com/",
+    "title": "AI For Community Good Class",
+    "slug": "ai-for-community-good-class",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_For_Community_Good_103e653088.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-21T07:00",
+    "registration_url": "https://www.eventbrite.com/e/iaw-san-diego-ai-isnt-the-futureits-now-tickets-1246204373829?aff=ebdssbdestsearch",
+    "title": "IAW San Diego: AI Isn't the Future—It's Now!",
+    "slug": "iaw-san-diego-ai-isnt-the-futureits-now",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/https_cdn_evbuc_com_images_992328033_120864962523_1_original_20250325_163812_2186e878e2.png"
+  },
+  {
+    "category": "in-person",
+    "listId": 4694,
+    "date": "2025-04-21T08:00",
+    "registration_url": "https://ipwatchdog.com/artificial-intelligence-emerging-technologies-masters-2025/",
+    "title": "Artificial Intelligence & Emerging Technologies Program",
+    "slug": "artificial-intelligence-emerging-technologies-program",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/ipwatchdog_inc_c_Artificial_Intelligence_and_Emerging_Technologies_Program_a2a87df70e.png"
+  },
+  {
+    "category": "virtual",
+    "date": "2025-04-21T09:00",
+    "registration_url": "https://regulatingai.org/bipartisan-ai-regulation-and-the-future-of-ai-ft-congressman-ted-lieu/",
+    "title": "Bipartisan AI Regulation and the Future of AI Ft. Congressman Ted Lieu",
+    "slug": "bipartisan-ai-regulation-and-the-future-of-ai",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Regulating_AI_a86f03044b.png"
+  },
+  {
+    "category": "virtual",
+    "date": "2025-04-21T09:30",
+    "registration_url": "https://youtu.be/dai4b8TlZ-M?si=EK2KygPoYtvTSirm",
+    "title": "Using AI to Bridge the Gap Between Technology and Emergency Response",
+    "slug": "using-ai-to-bridge-the-gap-between-technology-and-emergency-response",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Rapid_SOS_4aa1077e4a.png"
+  },
+  {
+    "category": "virtual",
+    "date": "2025-04-21T15:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-for-small-business-owners-free-webinar-tickets-1273407057789",
+    "title": "AI for Small Business Owners - Webinar",
+    "slug": "ai-for-small-business-owners-webinar",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Cerebella_AI_f988e18fad.png"
+  },
+  {
+    "category": "hybrid",
+    "date": "2025-04-21T15:30",
+    "registration_url": "https://www.eventbrite.com/e/artificial-intelligence-in-the-criminal-justice-system-in-person-tickets-1303070903149?aff=ebdssbdestsearch",
+    "title": "Artificial Intelligence in the Criminal Justice System",
+    "slug": "artificial-intelligence-in-the-criminal-justice-system",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/ASU_2709af4aa9.png"
+  },
+  {
+    "category": "in-person",
+    "listId": 4694,
+    "date": "2025-04-21T17:30",
+    "registration_url": "mailto:festivals@scoopnewsgroup.com?subject=AI Week Opening Party Registration Request",
+    "title": "AI Week Opening Party",
+    "slug": "ai-week-opening-party",
+    "altbtntext": "REQUEST TO ATTEND",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_1abe5793b4.png"
+  },
+  {
+    "category": "virtual",
+    "listId": 4694,
+    "date": "2025-04-21T19:00",
+    "registration_url": "https://www.eventbrite.com/e/algorythmtmdata-science-vs-artificial-intelligence-clarify-your-doubts-tickets-645166569577?aff=ebdssbdestsearch",
+    "title": "Data Science vs Artificial Intelligence: Clarify Your Doubts",
+    "slug": "data-science-vs-artificial-intelligence",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Data_Science_vs_Artificial_Intelligence_378776f5ab.png"
+  },
+  {
+    "category": "in-person",
+    "listId": 4694,
+    "date": "2025-04-22T08:00",
+    "registration_url": "https://www.eventbrite.com/e/american-heart-association-forum-on-the-value-and-impact-of-al-application-tickets-1269415248179?aff=ebdssbdestsearch",
+    "title": "Value and Impact of Al Applications in Health Forum",
+    "slug": "value-and-impact-of-al-applications-in-health-forum",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Value_and_Impact_of_Al_Applications_in_Health_Forum_3d01e471b7.png"
+  },
+  {
+    "category": "virtual",
+    "listId": 4694,
+    "date": "2025-04-22T08:00",
+    "registration_url": "https://www.eventbrite.com/e/easy-ai-system-live-training-by-the-ai-wellness-universe-tickets-1268238247739?aff=ebdssbdestsearch",
+    "title": "Easy AI System - Live Training - by the AI Wellness Universe",
+    "slug": "easy-ai-system",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Easy_AI_System_Live_Training_by_the_AI_Wellness_4556ea4a04.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-22T08:00",
+    "registration_url": "https://www.eventbrite.com/e/the-future-of-government-data-ai-automation-mission-ready-modernization-tickets-1279658104839?aff=ebdssbdestsearch",
+    "title": "The Future of Government Data, AI Automation, & Mission-Ready Modernization",
+    "slug": "the-future-of-government-data-ai-automation-mission-ready-modernization",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/ICIT_4cab2bcb0c.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-22T10:00",
+    "registration_url": "https://ai.jhu.edu/event/spring-2025-symposium/",
+    "title": "Johns Hopkins Data Science and AI Institute Spring 2025 Symposium: Human Alignment of AI",
+    "slug": "johns-hopkins-data-science-and-ai-institute-spring-2025-symposium-human-alignment-of-ai",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Johns_Hopkins_Data_Science_and_AI_Institute_Spring_2025_Symposium_Human_Alignment_of_AI_831571eadd.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-22T10:00",
+    "registration_url": "https://www.eventbrite.com/e/explore-the-future-of-stem-ai-w-girls-for-technology-at-ccsu-tickets-1261425229819?aff=ebdssbdestsearch",
+    "title": "Explore the Future of STEM & AI",
+    "slug": "explore-the-future-of-stem-ai",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Explore_the_Future_of_STEM_and_AI_fdcc26c953.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-22T10:30",
+    "registration_url": "https://www.eventbrite.com/e/uc-berkeley-ai-policy-research-symposium-2025-tickets-1291609371399?aff=ebdssbdestsearch",
+    "title": "UC Berkeley AI Policy Research Symposium 2025",
+    "slug": "uc-berkeley-ai-policy-research-symposium-2025",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/https_cdn_evbuc_com_images_987590803_87027792831_1_original_20250319_145015_45ee267cc2.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-22T11:00",
+    "registration_url": "https://www.atlantaaiweek.com/about",
+    "title": "Atlanta AI Week April 22-24, 2025",
+    "slug": "atlanta-ai-week-april-22-24-2025",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Atlanta_AI_Week_April_22_24_2025_69bed7e25d.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-22T13:00",
+    "registration_url": "https://www.eventbrite.com/e/launch-your-own-successful-ai-app-ai-startup-workshop-2024-tickets-1128267260749?aff=ebdssbdestsearch",
+    "title": "Launch Your Own Successful AI App | AI Startup | Workshop 2024",
+    "slug": "launch-your-own-successful-ai-app-ai-startup-workshop-2024",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Launch_Your_Own_Successful_AI_App_9d218e6398.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-22T17:30",
+    "registration_url": "https://www.eventbrite.com/e/design-in-the-age-of-ai-part-2-the-good-the-bad-and-the-wtf-tickets-1261718426779?aff=ebdssbdestsearch",
+    "title": "Design in the Age of AI | Part 2",
+    "slug": "design-in-the-age-of-ai-part-2",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AIGA_Chicago_f14c1b4541.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-22T17:30",
+    "registration_url": "https://www.eventbrite.com/e/hartford-ai-day-2025-tickets-1269360664919?aff=ebdssbdestsearch",
+    "title": "Hartford AI Day 2025",
+    "slug": "hartford-ai-day-2025",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Hartford_AI_Day_2025_985a2ef48e.png"
+  },
+  {
+    "category": "virtual",
+    "listId": 4694,
+    "date": "2025-04-22T18:00",
+    "registration_url": "https://www.meetup.com/nova-scribes/events/306378149/?recId=0f6df544-0d15-4512-a494-a47e66dca8c4&recSource=event-search&searchId=ee28dd1b-d953-41e9-9d31-dee0590e32d1&eventOrigin=find_page$all",
+    "title": "AI World Café: Unpacking Tools, Use Cases, and Creativity",
+    "slug": "ai-world-cafe",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_World_Cafe_Unpacking_Tools_Use_Cases_and_Creativity_90ffb0ddba.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-22T20:00",
+    "registration_url": "https://cdt.org/event/2025-spring-fling/",
+    "title": "CDT's Spring Fling",
+    "slug": "cdts-spring-fling",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/CDT_31f40ed1f8.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-22T20:30",
+    "registration_url": "https://www.eventbrite.com/e/inspired-by-intelligence-purpose-and-creativity-in-the-ai-era-tickets-1221326463329?aff=ebdssbdestsearch",
+    "title": "Inspired by Intelligence: Purpose and Creativity in the AI Era",
+    "slug": "inspired-by-intelligence-purpose-and-creativity-in-the-ai-era",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Inspired_by_Intelligence_Purpose_and_Creativity_in_the_AI_Era_68276ced95.png"
+  },
+  {
+    "category": "hybrid",
+    "listId": 5508,
+    "date": "2025-04-23T08:00",
+    "registration_url": "https://iapp.org/conference/global-privacy-summit/",
+    "title": "IAPP Global Privacy Summit 2025",
+    "slug": "iapp-global-privacy-summit-2025",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/main_image_821c88d642520e7cb1ee3b53e09eaf5f_png_c12a2678c5.png"
+  },
+  {
+    "category": "hybrid",
+    "listId": 5508,
+    "date": "2025-04-23T08:30",
+    "registration_url": "https://fusionlp.regfox.com/2025-pti-ai-cyber-summit?t=fweb",
+    "title": "2025 AI and Cyber Summit",
+    "slug": "2025-ai-and-cyber-summit",
+    "altbtntext": "",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/2025_AI_and_Cyber_Summit_fce0195085.png"
+  },
+  {
+    "category": "virtual",
+    "listId": 5508,
+    "date": "2025-04-23T09:00",
+    "registration_url": "https://www.eventbrite.com/e/agentic-ai-for-seo-boost-rankings-with-micro-seo-live-ai-seo-webinar-tickets-1266498714749?aff=ebdssbdestsearch",
+    "title": "Agentic AI for SEO",
+    "slug": "agentic-ai-for-seo",
+    "altbtntext": "",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Agentic_AI_for_SEO_3782eaca49.png"
+  },
+  {
+    "category": "hybrid",
+    "date": "2025-04-23T09:00",
+    "registration_url": "https://apste.net/conf/index.php?id=2827605",
+    "title": "International Conference on Artificial Intelligence and Communication Technologies (ICAICT - 25)",
+    "slug": "international-conference-on-artificial-intelligence-and-communication-technologies-icaict-25",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/APST_Elogo_24f2bbd4ae.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-23T11:30",
+    "registration_url": "https://afceadc.swoogo.com/cio2025/7498252?i=OTNKZlPYA08ADVwWpehBk_UCTh4IDMRI",
+    "title": "Uniting DoD CIOs for Mission Success—A Luncheon Discussion",
+    "slug": "uniting-dod-cios-for-mission-success",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Lunch_Series_6d5b146cfa.png"
+  },
+  {
+    "category": "virtual",
+    "listId": 5508,
+    "date": "2025-04-23T12:00",
+    "registration_url": "https://cutt.ly/nrt1akxl",
+    "title": "AI Agents Masterclass: A Look into the Future",
+    "slug": "ai-agents-masterclass",
+    "altbtntext": "",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_Agents_Masterclass_0ef3d0b971.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-23T12:30",
+    "registration_url": "https://events.elastic.co/genaiwsforpubsecarl",
+    "title": "Generative AI Vector Database and RAG 101 Workshop for Public Sector",
+    "slug": "generative-ai-vector-database-and-rag-101-workshop",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Elastic_87d2f3062d.png"
+  },
+  {
+    "category": "virtual",
+    "listId": 5508,
+    "date": "2025-04-23T13:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-implementation-in-business-washington-dc-tickets-1026632805357?aff=ebdssbdestsearch",
+    "title": "AI Implementation in Business ",
+    "slug": "ai-implementation-in-business",
+    "altbtntext": "",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_Implementation_in_Business_d932913d47.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-23T15:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-marketing-mastermind-workshop-tickets-1301287870049?aff=ebdssbdestsearch",
+    "title": "AI Marketing Mastermind Workshop",
+    "slug": "ai-marketing-mastermind-workshop",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/cdn_evbuc_com_images_8d9e33314d.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-23T15:00",
+    "registration_url": "https://www.eventbrite.com/e/silicon-valley-aitech-investing-summit-parties-gdc-rsa-startup-grind-tickets-1256043101729?aff=ebdssbdestsearch",
+    "title": "Silicon Valley AI/Tech Investing Summit",
+    "slug": "silicon-valley-aitech-investing-summit",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/https_cdn_evbuc_com_images_984418573_1759609332823_1_original_20250315_060505_304cdc3b9c.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-23T15:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-beyond-the-hype-an-immersive-masterclass-with-ethan-king-tickets-1215572141999?aff=ebdssbdestsearch",
+    "title": "AI Beyond The Hype: An Immersive Masterclass with Ethan King",
+    "slug": "ai-beyond-the-hype-an-immersive-masterclass-with-ethan-king",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_Beyond_The_Hype_An_Immersive_Masterclass_with_Ethan_King_55c8bb2d79.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-23T15:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-artificial-intelligence-bootcamp-v11-tickets-1284273589879?aff=ebdssbdestsearch",
+    "title": "Ai. Artificial Intelligence BootCamp V11",
+    "slug": "ai-artificial-intelligence-bootcamp-v11",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/anexo_ai_2bb66c85ae.png"
+  },
+  {
+    "category": "in-person",
+    "listId": 5508,
+    "date": "2025-04-23T17:00",
+    "registration_url": "https://events.elastic.co/aiweek-networking",
+    "title": "Elastic AI Partner Ecosystem Networking Event",
+    "slug": "elastic-ai-partner-ecosystem-networking-event",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Elastic_87d2f3062d.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-23T17:30",
+    "registration_url": "https://www.austin-ai.org/april-23-2025",
+    "title": "AAIA April Meeting",
+    "slug": "aaia-april-meeting",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Logo_Icon_9fa46d1efe.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-23T18:45",
+    "registration_url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/306625667/?eventOrigin=group_events_list",
+    "title": "Hands-Ons: Using Replit + Grok to make a Video Game",
+    "slug": "hands-ons-using-replit-grok-to-make-a-video-game",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_Innovators_Network_Tysons_Meetup_c0a3fe4fc6.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-23T19:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-tech-networking-atlanta-tickets-1296423009119?aff=ebdssbdestsearch",
+    "title": "AI & Tech Networking Atlanta",
+    "slug": "ai-tech-networking-atlanta",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_and_Tech_Networking_ca63110568.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-23T19:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-tech-networking-austin-tickets-1296428676069?aff=ebdssbdestsearch",
+    "title": "AI & Tech Networking Austin",
+    "slug": "ai-tech-networking-austin",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_and_Tech_Networking_ca63110568.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-23T19:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-tech-networking-nyc-manhattan-tickets-1291951815659?aff=ebdssbdestsearch",
+    "title": "AI & Tech Networking Manhattan",
+    "slug": "ai-tech-networking-manhattan",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_and_Tech_Networking_ca63110568.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-23T19:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-tech-networking-fort-lauderdale-tickets-1296433029089?aff=ebdssbdestsearch",
+    "title": "AI & Tech Networking Fort Lauderdale",
+    "slug": "ai-tech-networking-fort-lauderdale",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_and_Tech_Networking_ca63110568.png"
+  },
+  {
+    "category": "virtual",
+    "listId": 5508,
+    "date": "2025-04-23T19:00",
+    "registration_url": "https://www.eventbrite.com/e/algorythmtm-become-a-machine-learning-ninja-tickets-717931591717?aff=ebdssbdestsearch",
+    "title": "Become a Machine Learning Ninja",
+    "slug": "become-a-machine-learning-ninja",
+    "altbtntext": "",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Become_a_Machine_Learning_Ninja_641021d110.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-24T08:00",
+    "registration_url": "https://aitalks.upgather.com/",
+    "title": "AITALKS",
+    "slug": "aitalks",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_1abe5793b4.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-24T08:00",
+    "registration_url": "https://www.eventbrite.com/e/weatherhead-symposium-2025-artificial-intelligence-and-the-future-of-work-tickets-1003237118227?aff=ebdssbdestsearch",
+    "title": "Weatherhead Symposium 2025: Artificial Intelligence and the Future of Work",
+    "slug": "weatherhead-symposium-2025-artificial-intelligence-and-the-future-of-work",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Weatherhead_deb23ac401.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-24T08:00",
+    "registration_url": "https://www.eventbrite.com/e/2025-pidx-spring-conference-tickets-1259907941569?aff=ebdssbdestsearch",
+    "title": "2025 PIDX Spring Conference",
+    "slug": "2025-pidx-spring-conference",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/2025_PIDX_Spring_Conference_8cf699e4a1.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-24T09:30",
+    "registration_url": "https://www.eventbrite.com/e/revolutionize-your-organizing-productivity-business-through-ai-tickets-1257555565549?aff=ebdssbdestsearch",
+    "title": "Revolutionize Your Organizing & Productivity Business Through AI",
+    "slug": "revolutionize-your-organizing-productivity-business-through-ai",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Revolutionize_Your_Organizing_and_Productivity_Business_Through_AI_66d67d022a.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-24T09:30",
+    "registration_url": "https://www.eventbrite.com/e/innovation-ai-and-ownership-building-a-bridge-to-the-future-tickets-949010194037?aff=ebdssbdestsearch",
+    "title": "Innovation, AI and Ownership - Building a bridge to the future",
+    "slug": "innovation-ai-and-ownership-building-a-bridge-to-the-future",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Innovation_AI_and_Ownership_Building_a_bridge_to_the_future_0bfb2bd7a5.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-24T13:30",
+    "registration_url": "https://www.eventbrite.com/e/4th-marketing-ai-pulse-tickets-1225278845009?aff=ebdssbdestsearch",
+    "title": "4th Marketing AI Pulse",
+    "slug": "4th-marketing-ai-pulse",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/https_cdn_evbuc_com_images_984418573_1759609332823_1_original_20250315_060505_48753eafc7.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-24T15:00",
+    "registration_url": "https://www.eventbrite.com/e/chicago-ai-tech-finance-networking-event-tickets-1297829395659?aff=ebdssbdestsearch&keep_tld=1",
+    "title": "Chicago AI, Tech & Finance Networking Event",
+    "slug": "chicago-ai-tech-finance-networking-event",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/https_cdn_evbuc_com_images_987364933_2212983078153_1_original_20250319_090755_cd01bb09bb.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-24T15:00",
+    "registration_url": "https://www.eventbrite.com/e/entrecon-extra-ai-for-impact-tickets-1279522128129?aff=ebdssbdestsearch",
+    "title": "ENTRECON EXTRA- AI For Impact",
+    "slug": "entrecon-extra-ai-for-impact",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/ENTRECON_EXTRA_AI_For_Impact_fd3289219f.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-24T15:00",
+    "registration_url": "https://www.eventbrite.com/e/inspire11s-ai-open-house-happy-hour-tickets-1273062717859?aff=ebdssbdestsearch",
+    "title": "Inspire11's AI Open House Happy Hour",
+    "slug": "inspire11s-ai-open-house-happy-hour",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/https_cdn_evbuc_com_images_981113373_2666638052401_1_original_20250311_190954_1f14af2fde.png"
+  },
+  {
+    "category": "virtual",
+    "date": "2025-04-24T15:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-for-everyone-machine-learning-fundamentals-tickets-925775257717?aff=ebdssbdestsearch",
+    "title": "AI for Everyone: Machine Learning Fundamentals",
+    "slug": "ai-for-everyone-machine-learning-fundamentals",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_for_Everyone_Machine_Learning_Fundamentals_f66bb92eb9.png"
+  },
+  {
+    "category": "virtual",
+    "date": "2025-04-24T17:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-data-and-techprofessionalnetworking-virtual-saltlake-tickets-1245638742009",
+    "title": "AI, Data & Tech",
+    "slug": "ai-data-and-tech",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_Data_and_Tech_f37633d355.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-24T19:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-tech-networking-san-jose-tickets-1296472156119?aff=ebdssbdestsearch",
+    "title": "AI & Tech Networking San Jose",
+    "slug": "ai-tech-networking-san-jose",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_and_Tech_Networking_ca63110568.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-24T19:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-tech-networking-philadelphia-tickets-1264416025369?aff=ebdssbdestsearch",
+    "title": "AI & Tech Networking Philadelphia",
+    "slug": "ai-tech-networking-philadelphia",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_and_Tech_Networking_ca63110568.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-24T19:00",
+    "registration_url": "https://www.eventbrite.com/e/more-human-book-launch-ai-the-future-of-leadership-event-tickets-1301225744229?aff=ebdssbdestsearch",
+    "title": "More Human Book Launch - AI & The Future of Leadership Event",
+    "slug": "more-human-book-launch-ai-the-future-of-leadership-event",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Loopwell_Logo2024_30ddc0d45b.png"
+  },
+  {
+    "category": "virtual",
+    "date": "2025-04-24T19:00",
+    "registration_url": "https://www.eventbrite.com/e/algorythmtm-gamifying-ai-systems-in-the-age-of-ai-tickets-635091785627?aff=ebdssbdestsearch",
+    "title": "Gamifying AI Systems in The Age of AI",
+    "slug": "gamifying-ai-systems",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/Gamifying_AI_Systems_in_The_Age_of_AI_5f77c5dd3f.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-25T08:30",
+    "registration_url": "https://cesp.gmu.edu/events/",
+    "title": "7th Annual Energy Forum",
+    "slug": "7th-annual-energy-forum",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/GM_7b86c1f24c.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-25T09:00",
+    "registration_url": "https://www.eventbrite.com/e/the-2nd-green-ai-summit-at-harvard-and-boston-university-tickets-1222975666139?aff=ebdssbdestsearch",
+    "title": "The 2nd Green AI Summit at Harvard and Boston University",
+    "slug": "the-2nd-green-ai-summit-at-harvard-and-boston-university",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/The_2nd_Green_AI_Summit_at_Harvard_and_Boston_University_378ce36b2f.png"
+  },
+  {
+    "category": "in-person",
+    "date": "2025-04-25T12:00",
+    "registration_url": "https://www.eventbrite.com/e/ai-in-project-management-tickets-1301346054079?aff=oddtdtcreator",
+    "title": "AI in Project Management",
+    "slug": "ai-in-project-management",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/AI_in_Project_Management_0458a7614f.png"
+  },
+  {
+    "category": "virtual",
+    "date": "2025-04-25T17:00",
+    "registration_url": "https://www.meetup.com/openanalyticsdc/events/szvvptyhcgbhc/",
+    "title": "AI Connect: Virtual Job and Career Networking for AI Specialists",
+    "slug": "ai-connect-virtual-job-and-career-networking",
+    "description": "",
+    "image": "https://cdn.ems.prod.upgather.com/uploads/nwlb_logo1_d14128904d.png",
+    "speakers": []
+  }
+]
