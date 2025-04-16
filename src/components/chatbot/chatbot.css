@@ -1,0 +1,13 @@
+/* Tooltip style for Chatbot */
+.tippy-box, .tippy-box * {
+ font-family: "GoogleSans", sans-serif;
+}
+
+.tippy-box {
+ font-size: 15px;
+ padding: 4px 6px;
+ border-radius: 6px;
+ line-height: 1.4;
+ color: #fff;
+ background-color: #000;
+}

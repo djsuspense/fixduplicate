@@ -1,0 +1,25 @@
+.wrapper {
+  display: inherit;
+}
+
+.disabled {
+ opacity: 0.3;
+}
+
+.dayofweek{
+  font-size: 26px;
+  font-family: 'sofia-pro',sans-serif;
+  display: grid;
+  grid-template-columns: 225px 1fr;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #022058;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: left;
+  @media only screen and (min-width: 120px) and (max-width: 767px){
+    grid-template-columns: 1fr;
+    margin-bottom: 0px;
+    font-size: 20px;
+  }
+}

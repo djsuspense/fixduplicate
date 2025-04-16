@@ -1,0 +1,163 @@
+section.communityabout2021{
+    position: relative;
+    font-family: 'sofia-pro', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    background-color: #fff;
+    color: #000;
+    margin-top: 80px;
+    width: 100%;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    z-index: 0;
+}
+.communityabout2021 .underabout2021{
+    font-family: 'sofia-pro',sans-serif;
+    color: #000;
+    margin-bottom: 0px;
+}
+.communityabout2021 .grid6040{
+    display: grid;
+    grid-template-columns: 8fr 4fr;
+}
+
+.communityabout2021 .grid6040 .g1, .communityabout2021 .grid6040 .g3{
+    padding-right: 0px;
+}
+.communityabout2021 h1, h1.communityabout2021{
+    font-family: 'sofia-pro', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    color: #000;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 0px;
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+.communityabout2021 h2{
+    font-family: alverata, serif;
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 50px;
+    color: #000;
+}
+.communityabout2021 .g1 p{
+    font-family: 'sofia-pro',sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 90px;
+    color: #000;
+}
+
+.communityabout2021 .g3{
+    font-family: 'sofia-pro',sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    color: #000;
+}
+.underabout2021b{
+    font-family: 'sofia-pro',sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+}
+h3.hostlink{
+    font-family: 'sofia-pro', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    margin-bottom: 30px;
+    margin-top: -10px;
+    
+}
+h3.hostlink a{
+    
+    color: #2682f0;
+    text-decoration: none;
+
+}
+
+
+.containfix{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+
+
+@media only screen and (min-width: 1441px) and (max-width: 1600px){
+    .containfix{
+        max-width: 940px !important;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1440px){
+    .containfix{
+        max-width: 960px !important;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px){
+    
+    .containfix{
+        max-width: 680px !important;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px){
+    
+    .containfix{
+        max-width: 90% !important;
+    }
+    
+    .communityabout2021 h1{
+        font-size: 30px;
+    }
+    .communityabout2021 .grid6040{
+        
+        grid-template-columns: 12fr;
+    }
+
+    .communityabout2021 .grid6040 .g1, .communityabout2021 .grid6040 .g3{
+        
+        padding-right: 0px;
+    }
+    
+    section.communityabout2021{
+        background-image: none;
+        margin-top: 120px;
+    }
+}
+@media only screen and (max-width: 430px){
+    section.communityabout2021{
+        margin-top: 160px;
+    }
+}
+@media only screen and (max-width: 390px){
+    section.communityabout2021{
+        margin-top: 120px;
+    }
+}
+@media only screen and (min-width: 100px) and (max-width: 320px){
+    section.communityabout2021{
+        background-image: none;
+        margin-top: 50px;
+    }
+    .containfix{
+        max-width: 90% !important;
+    }
+    .communityabout2021 h1{
+        font-size: 30px;
+    }
+    .communityabout2021 .grid6040{
+        
+        grid-template-columns: 12fr;
+    }
+
+    .communityabout2021 .grid6040 .g1, .communityabout2021 .grid6040 .g3{
+        
+        padding-right: 0px;
+    }
+}

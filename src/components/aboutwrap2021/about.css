@@ -1,0 +1,696 @@
+section.aboutwrap2021{
+    position: relative;
+    font-family: proxima-nova, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    background-color: transparent;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    padding-top: 0px;
+    
+    width: 100%;
+    padding-bottom: 0px;
+    z-index: 0;
+}
+.abdivide{
+    background: #16e1ff;
+    margin-bottom: 50px;
+}
+
+.purply{
+    color: #8733ff;
+}
+.bluedup{
+    color: #022058;
+}
+.aboutwrap2021 h1{
+    font-family: 'proxima-nova', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    color: #022058;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 50px;
+}
+h2.sponsor{
+    font-family: 'proxima-nova', sans-serif;
+    font-size: 42px;
+    font-weight: 800;
+    text-align: left;
+    margin-top: 188px;
+    margin-left: 50px;
+}
+h3{
+    font-family: 'proxima-nova',sans-serif;
+    color: #000;
+    font-weight: 500;
+    font-size: 36px; text-align: left; 
+    margin-top: 10px;
+    margin-bottom: 0px;   
+}
+h4{
+    font-family: 'proxima-nova',sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: #a2a2a2;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.grid2{
+    display: grid;
+    
+    grid-area: 1 / 2 / 1 / 4;   /* grid-row-start / grid-column-start / grid-row-end / grid-column-end */
+}
+
+.grid3 {
+    grid-area: 1 / 3 / 2 / 4;    /* grid-row-start / grid-column-start / grid-row-end / grid-column-end */
+    background-color: #ccc;
+    
+    background-repeat: repeat;
+    margin-bottom: 20px;
+    color: #000;
+    width: 366px;
+    height: 120%;
+    z-index: 10;
+}
+
+.locbox{
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+.gridContain{
+    display: grid;
+    grid-gap: 100px;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+
+}
+
+
+
+div.grid .column .date,
+div.grid .column .location {
+    font-family: 'proxima-nova',sans-serif;
+    border: 1px solid black;
+    
+    padding-left: 10px;
+}
+
+div.grid .column .location {
+    margin-top: 10px;
+}
+
+p.underaboutwrap2021{
+    font-family: 'proxima-nova',sans-serif;
+    color: #000;
+    text-align: left;
+    font-size: 20px; 
+    line-height: 30px;
+    margin-bottom: 50px;
+    font-weight: 500;
+}
+p.underaboutwrap2021b{
+    font-family: 'proxima-nova',sans-serif;
+    color: #000;
+    text-align: left;
+    font-size: 20px; 
+    line-height: 30px;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+a.reg{
+    font-family: montserrat,sans-serif;
+    display: block;
+    background-color: #ee2a7b;
+    font-weight: 800;
+    color: #fff;
+    padding: 15px;
+    width: 310px;
+    text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+a.regmob{
+    display: none;
+    
+}
+
+
+
+a.regop{
+    display: block;
+    font-family: 'proxima-nova',sans-serif;
+    background-color: #fff;
+    font-weight: 800;
+    color: #ee2a7b;
+    padding: 15px;
+    width: 366px;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 200px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+a.regright{
+    display: inline-block;
+    background-color: #ee2a7b;
+    font-family: 'proxima-nova',sans-serif;
+    font-weight: 800;
+    color: #fff;
+    padding: 15px;
+    width: 366px;
+    text-align: center;
+    font-size: 40px;
+    
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+a.reg:hover,a.pdf:hover,a.regright:hover,a.regop:hover{
+    color: rgba(255,255,255,0.25);
+    background-color: #000;
+    
+}
+
+p.cpe{
+    margin-top: 50px;
+    font-size: 16px;
+    text-align: left;
+    color: #000;
+}
+
+p.cpemob{
+    display: none;
+    margin-top: 50px;
+    font-size: 16px;
+    text-align: left;
+    color: #000;
+}
+.joinuswrap{
+    
+    width: 100%;
+    height: 350px;
+    
+    
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: 100% 210px;
+    position: relative;
+    z-index: 99;
+}
+.joinus{
+    display: grid;
+    grid-gap: 100px;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    max-width: 1400px;
+    
+    
+    margin: 0 auto;
+    position: relative;
+    z-index: 9;
+}
+.jtext{
+    font-family: 'proxima-nova';
+    font-size: 145px;
+    font-weight: 800;
+    color: #fff;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000;
+    line-height: 0.9;
+    text-align: left;
+    margin-top: 55px;
+}
+.colcenter{
+    display: flex;
+    text-align: center;
+    margin-right: 30px;
+    align-items: flex-end;
+}
+.ptext{
+    font-family: 'proxima-nova';
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 155px;
+    width: 125px;
+}
+
+.amt{
+    font-family: 'proxima-nova';
+    font-size: 100px;
+    font-weight: 800;
+    color: #fff;
+    text-align: left;
+    margin-top: 55px;
+}
+
+.containfix{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.learnMoreOverlay .ReactModal__Content{
+   
+    font-family: 'Montserrat',sans-serif;
+    font-size: 24px;
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: rgb(243, 239, 239) !important;
+    color: #000;
+    margin-top: 50%;
+    max-height: 100%;
+    height: 600px;
+    border: 2px solid #000;
+    z-index: 99;
+}
+.learnMoreOverlay button{
+    background-color: #ee2a7b;
+    color: #fff;
+    position: absolute;
+    display: block;
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    
+    top: 20px;
+    right: 20px;
+}
+.learnMoreOverlay div{
+    display: block;
+    margin-top: 80px;
+}
+.cpe-logo{
+    float: left;
+    width: 150px;
+    padding: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.cpe-mail{
+    color: #ee2a7b;
+}
+.grouplogos{
+    margin-top: -80px;
+    padding-left: 30px;
+}
+.grouplogos h1{
+    font-family: 'proxima-nova',sans-serif;
+    font-weight: 900;
+    font-size: 36px !important;
+    text-align: left; 
+    color: #000
+}
+.grouplogos h2{
+    font-family: 'proxima-nova',sans-serif;
+    font-size: 36px;
+    text-align: left;
+    font-weight: normal;
+}
+.logos{
+    text-align: left;
+}
+.logos img{
+    max-width: 200px;
+}
+@media only screen and (min-width: 1441px) and (max-width: 1600px){
+    
+    .containfix{
+        max-width: 940px !important;
+    }
+    .gridContain{
+        display: grid;
+        grid-gap: 50px;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+    
+    .aboutwrap2021 h1{
+        font-size: 30px;
+        margin-top: 50px;
+    }
+    .grouplogos{
+        margin-top: -110px;
+        padding-left: 30px;
+    }
+    .grouplogos h1{
+        font-family: 'proxima-nova',sans-serif;
+        font-weight: 900;
+        font-size: 36px;
+        text-align: left; 
+        color: #000
+    }
+
+    div.column.grid3{
+        width: 300px;
+        height: 130%;
+    }
+
+    h2.sponsor{
+        font-size: 38px;
+        margin-left: 20px;
+        margin-top: 153px;
+    }
+    div.topregrow{
+        text-align: right;
+        display: grid;
+        grid-gap: 50px;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+    a.regright{
+        width: 300px !important;
+        font-size: 30px !important;
+    }
+   
+    .joinus{
+        display: grid;
+        grid-gap: 50px;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        max-width: 1200px;
+    }
+    .jtext{
+        font-size: 110px !important;
+        margin-top: 80px !important;
+    }
+    a.regop{
+        
+        width: 300px !important;
+        
+        font-size: 30px !important;
+        
+        margin-left: 0px;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1440px){
+    section.aboutwrap2021{
+        margin-top: 0px !important;
+    }
+    .containfix{
+        max-width: 960px !important;
+    }
+    .gridContain{
+        display: grid;
+        grid-gap: 50px;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+    
+    .aboutwrap2021 h1{
+        font-size: 30px;
+    }
+
+    div.column.grid3{
+        width: 250px;
+    }
+
+    h2.sponsor{
+        font-size: 38px;
+        margin-left: 20px;
+    }
+    div.topregrow{
+        text-align: right;
+        display: grid;
+        grid-gap: 50px;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+    a.regright{
+        width: 250px !important;
+        font-size: 30px !important;
+    }
+    
+    .joinus{
+        display: grid;
+        grid-gap: 50px;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        max-width: 960px;
+    }
+    .jtext{
+        font-size: 110px !important;
+        margin-top: 80px !important;
+    }
+    a.regop{
+        
+        width: 250px !important;
+        
+        font-size: 30px !important;
+        
+        margin-left: 0px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px){
+    section.aboutwrap2021{
+        margin-top: 0px !important;
+        padding-top: 50px;
+    }
+    .containfix{
+        max-width: 680px !important;
+    }
+    .gridContain{
+        display: grid;
+        grid-gap: 20px;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+    
+    .aboutwrap2021 h1{
+        font-size: 30px !important;
+        margin-top: 0px !important;
+    }
+
+    .grouplogos{
+        margin-top: -50px;
+        padding-left: 20px;
+    }
+    .grouplogos h1{
+        font-family: 'proxima-nova',sans-serif;
+        font-weight: 900;
+        font-size: 30px !important;
+        text-align: left; 
+        color: #000
+    }
+    .grouplogos h2{
+        font-size: 28px !important;
+    }
+    .logos img{
+        max-width: 150px;
+    }
+
+    p.underaboutwrap2021{
+        font-size: 20px !important;
+        line-height: 30px !important;
+    }
+    div.column.grid3{
+        width: 200px;
+    }
+
+    h2.sponsor{
+        font-size: 28px;
+        margin-left: 20px;
+        margin-top: 90px !important;
+    }
+    div.topregrow{
+        text-align: right;
+        display: grid;
+        grid-gap: 20px;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+    a.reg, a.regright{
+        width: 200px !important;
+        font-size: 18px !important;
+    }
+   
+    .joinus{
+        display: grid;
+        grid-gap: 20px;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        max-width: 680px;
+    }
+    .jtext{
+        font-size: 80px !important;
+        margin-top: 100px !important;
+    }
+    a.regop{
+        
+        width: 200px !important;
+        
+        font-size: 30px !important;
+        
+        margin-left: 0px;
+    }
+    p.cpe{
+        font-size: 11px !important;
+    }
+    
+}
+
+@media only screen and (min-width: 321px) and (max-width: 767px){
+    section.aboutwrap2021{
+        margin-top: -30px;
+        padding-top: 80px;
+        z-index: 0;
+        background-image: none;
+    }
+    .containfix{
+        max-width: 90% !important;
+    }
+    .sponsormob .containfix{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .sponsormob a.pdf{
+        height: 34px !important;
+        padding-top: 8px !important;
+    }
+    .gridContain{
+        display: block !important;
+        
+    }
+    
+    .aboutwrap2021 h1{
+        font-size: 30px !important;
+        margin-top: 0px !important;
+    }
+    .grouplogos h1{
+        padding-top: 40px !important;
+    }
+    .grouplogos h2{
+        color: #000;
+    }
+    p.underaboutwrap2021{
+        font-size: 20px !important;
+    }
+    div.column.grid3{
+        width: 200px;
+    }
+
+    h2.sponsor{
+        font-size: 28px;
+        margin-left: 20px;
+        margin-top: 22px !important;
+    }
+    div.topregrow{
+        text-align: right;
+        display: block;
+        
+    }
+    p.underaboutwrap2021{
+        margin-bottom: 20px;
+    }
+    a.reg{
+        display: none;
+    }
+    p.cpe{
+        display: none;
+    }
+    a.regmob{
+        display: block;
+        font-family: 'proxima-nova',sans-serif;
+        background-color: #ee2a7b;
+        color: #fff;
+        margin-top: 30px;
+        width: 200px !important;
+        padding: 15px;
+        font-size: 30px !important;
+        font-weight: 800;
+    }
+    p.cpemob{
+        display: block;
+    }
+    a.regright{
+        width: 120px !important;
+        font-size: 14px !important;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        margin-top: 0px !important;
+    }
+    
+    
+    .joinuswrap{
+        height: auto !important;
+        background-size: 100% 200px;
+        
+    }
+    .joinus{
+        max-width: 90%;
+        grid-gap: 20px;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+    .colcenter{
+        display: none;
+    }
+    .jtext{
+        margin-top: -30px !important;
+        font-size: 58px !important;
+    }
+    a.regop{
+        
+        width: 200px !important;
+        
+        font-size: 30px !important;
+        
+        margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    p.cpe{
+        font-size: 11px !important;
+    }
+    div.column.grid3{
+        display: none;
+    }
+    
+}
+
+@media only screen and (min-width: 100px) and (max-width: 320px){
+    section.aboutwrap2021{
+        
+        background-image: none;
+    }
+    .joinuswrap{
+        height: auto !important;
+        background-size: 100% 460px;
+        margin-top: 0px;
+    }
+    .joinus{
+
+        grid-gap: 20px;
+    }
+    .jtext{
+        margin-top: -30px !important;
+        font-size: 58px !important;
+    }
+    .colcenter{
+        display: none !important;
+    }
+    a.reg{
+        display: none;
+    }
+    a.regmob{
+        display: block;
+        margin-top: 30px;
+    }
+    a.regop{
+        margin-top: 0px;
+        margin-bottom: 30px;
+        width: 147px;
+        font-size: 20px;
+    }
+    p.cpe{
+       display: none;
+    }
+    p.cpemob{
+        display: block;
+        margin-top: 30px;
+    }
+    div.column.grid3{
+        display: none;
+    }
+}

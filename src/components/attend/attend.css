@@ -1,0 +1,139 @@
+section.attend{
+    position: relative;
+    font-family: 'sofia-pro', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    background-color: transparent;
+    
+    padding-top: 80px;
+    margin-top: -50px;
+    width: 100%;
+    padding-bottom: 50px;
+    z-index: 0;
+}
+
+.grid6040{
+    display: grid;
+    grid-template-columns: 8fr 4fr;
+}
+
+.grid6040 .g1,.grid6040 .g3{
+    padding-right: 30px;
+}
+.attend h1{
+    font-family: montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    color: #000;
+    font-size: 50px;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.attend h2{
+    font-family: montserrat, serif;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 50px;
+    color: #000;
+}
+.attend .g3 p{
+    font-family: 'sofia-pro',sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 90px;
+    color: #000;
+    font-size: 24px;
+}
+.attend .g4{
+    background-image: url('device_security.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: contain;
+    
+}
+.attend .g5{
+    font-family: 'sofia-pro',sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    color: #000;
+}
+
+
+
+
+.containfix{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+@media only screen and (min-width: 1441px) and (max-width: 1600px){
+    .containfix{
+        max-width: 940px !important;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1440px){
+    .containfix{
+        max-width: 960px !important;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px){
+    
+    .containfix{
+        max-width: 680px !important;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px){
+    section.attend{
+        background-image: none;
+    }
+    .containfix{
+        max-width: 90% !important;
+    }
+    .attend h1{
+        font-size: 50px;
+    }
+    .attend .grid6040{
+        
+        grid-template-columns: 12fr;
+    }
+
+    .attend .grid6040 .g1, .attend .grid6040 .g3{
+        
+        padding-right: 0px;
+    }
+    .attend a.reg{
+        display: block;
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 320px){
+    section.attend{
+        background-image: none;
+    }
+    .containfix{
+        max-width: 90% !important;
+    }
+    .attend h1{
+        font-size: 50px;
+    }
+    .attend .grid6040{
+        
+        grid-template-columns: 12fr;
+    }
+
+    .attend .grid6040 .g1, .attend .grid6040 .g3{
+        
+        padding-right: 0px;
+    }
+    .attend a.reg{
+        display: block;
+        margin-top: 30px;
+    }
+}
+
