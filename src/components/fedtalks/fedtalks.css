@@ -1,0 +1,156 @@
+section.fedtalks{
+    position: relative;
+    font-family: proxima-nova, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    background-color: transparent;
+    line-height: 36px;
+    margin-top: -30px;
+    width: 100%;
+    padding-bottom: 30px;
+    padding-top: 80px;
+    z-index: 0;
+}
+
+.grid6040{
+    display: grid;
+    grid-template-columns: 8fr 4fr;
+}
+
+.grid6040 .g1,.grid6040 .g3{
+    padding-right: 30px;
+}
+.fedtalks h1{
+    font-family: montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    color: #000;
+    font-size: 50px;
+    text-align: left;
+    margin-top: 0px;
+}
+
+.fedtalks h2{
+    font-family: montserrat,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 50px;
+    color: #000;
+}
+.g3 p{
+    font-family: proxima-nova,sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 90px;
+    color: #000;
+}
+
+.fedtalks .g4{
+    background-image: url('speech_bubble.png');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+}
+
+.fedtalks a.reg{
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+    width: 294px;
+    text-decoration: none;
+    padding-left: 7px; 
+    padding-right: 7px;
+    margin-top: 32px;
+    margin-bottom: 30px;
+}
+.followInline{
+    font-family: montserrat,sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    display: inline-block;
+    margin-top: 46px;
+    margin-bottom: 10px !important;
+    float: left;
+}
+
+.pinkify{
+    color: #ee2a7b;
+}
+
+.containfix{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+@media only screen and (min-width: 1441px) and (max-width: 1600px){
+    .containfix{
+        max-width: 1200px !important;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1440px){
+    .containfix{
+        max-width: 960px !important;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px){
+    
+    .containfix{
+        max-width: 680px !important;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px){
+    
+    .containfix{
+        max-width: 90% !important;
+    }
+    
+    .fedtalks h1{
+        font-size: 50px;
+    }
+    .fedtalks .grid6040{
+        
+        grid-template-columns: 12fr;
+    }
+
+    .fedtalks .grid6040 .g1, .schedule .grid6040 .g3{
+        
+        padding-right: 0px;
+    }
+    .fedtalks a.reg{
+        display: block;
+        margin-bottom: 30px;
+    }
+    .fedtalks .g1{
+        background-image: none;
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 320px){
+    
+    .containfix{
+        max-width: 90% !important;
+    }
+    .fedtalks h1{
+        font-size: 50px;
+    }
+    .fedtalks .grid6040{
+        
+        grid-template-columns: 12fr;
+    }
+
+    .fedtalks .grid6040 .g1, .schedule .grid6040 .g3{
+        
+        padding-right: 0px;
+    }
+    .fedtalks a.reg{
+        display: block;
+        margin-bottom: 30px;
+    }
+    .fedtalks .g1{
+        background-image: none;
+    }
+}

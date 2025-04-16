@@ -1,0 +1,305 @@
+.footer2021 {
+    background-color: #13152c !important;
+    background-repeat: repeat;
+    width: 100%;
+    position: relative;
+    background-image: url(https://sng-client-assets.s3.us-east-1.amazonaws.com/fedscoop/upgather/ai-week-2025/2025AIWeekDesktop-footerbg.svg);
+    font-family: 'sofia-pro',sans-serif;
+    color: #000;
+    font-weight: 500;
+    /*margin-top: 30px;*/
+}
+.f_wrap{
+    width: 100%;
+    
+}
+ul{
+    list-style-type: none;
+    margin-left: 0px;
+}
+.containfix{
+    max-width: 940px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 99999;
+}
+
+.clearout{
+    clear: both;
+}
+a.ftLogo{
+    display: block;
+    margin-bottom: 50px;
+}
+a.regyellow{
+    font-family: 'sofia-pro',sans-serif;
+    display: block;
+    background-color: transparent;
+    font-weight: 700;
+    color: #FFF;
+    padding: 15px;
+    width: 400px;
+    text-align: center;
+    font-size: 18px;
+    text-decoration: none;
+    border: 2px solid #fff;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+a.regyellow:hover{
+    border: 2px solid #07db89;
+    color: #07db89;
+}
+
+.branding {
+    /*grid-column-start: 1;
+    grid-column-end: 6;*/
+    display: inline-block;
+    margin-top: 6%;
+    
+}
+.logo {
+    width: 400px;
+    margin: 0px;
+    display: block;
+}
+.links {
+    /*display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: max-content;*/
+    float: right;
+    margin-top: 6%;
+    margin-bottom: 4%;
+    margin-right: 2%;
+    color: #fff;
+}
+.inline,div.inline.undefined{
+    text-align: left;
+}
+.inlines{
+    text-align: left;
+}
+.inlineLink {
+    font-family: 'sofia-pro', sans-serif;
+    display: inline;
+    padding-right: 10px;
+    font-size: 28px;
+    
+}
+.inlineLink a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+.inlineLink:first-child a{
+    font-weight: normal;
+}
+.hashtag{
+    color: #ffec26;
+    font-family: 'sofia-pro',sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    display: inline-block;
+    margin-right: 90px;
+    margin-bottom: 50px;
+}
+
+.socialicons{
+    font-family: 'sofia-pro', sans-serif;
+    font-weight: 600;
+    display: inline-block;
+    
+    margin-right: 0px;
+    color: #fff;
+    background-color: transparent;
+    font-size: 16px;
+    padding: 5px;
+    
+    text-decoration: none;
+}
+
+.socialicons:hover{
+    color: #07db89;
+    
+}
+.fNorma{
+    text-decoration: none;
+    font-size: 28px; 
+    font-weight: bold;
+    color: #fff;
+}
+.fNorma:hover{
+    color: rgb(55,55,55);
+}
+.fNorm{
+    font-weight: normal !important;
+    color: #fff;
+    font-size: 28px;
+}
+
+@media only screen and (max-width: 759px){
+    .socialicons{
+        font-size: 20px;
+    }
+    .hashtag{
+        font-size: 14px;
+        margin-bottom: 30px;
+        margin-right: 16px;
+    }
+    .inlineLink{
+        font-size: 11px;
+    }
+    
+}
+
+@media only screen and (max-width: 600px){
+    
+    .branding{
+        display: inline-block !important;
+        width: 38%;
+        vertical-align: top;
+    }
+    
+    .links{
+        
+        width: 62%;
+        vertical-align: top;
+        text-align: right;
+    }
+    .socialicons{
+        display: inline-block;
+        font-size: 14px;
+        margin-top: 5px;
+    }
+    
+    .fNorm,.fNorma{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 321px){
+   
+    .branding{
+        display: inline-block !important;
+        width: 30%;
+        vertical-align: top;
+    }
+    .logo{
+        width: 60px !important;
+        margin-left: 0px !important;
+        margin-top: 8px;
+    }
+    .links{
+        
+        width: 70%;
+        vertical-align: top;
+    }
+    .socialicons{
+        display: inline-block;
+        font-size: 14px;
+        margin-top: 5px;
+    }
+    .fNorm,.fNorma{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 1441px) and (max-width: 1600px){
+    .containfix{
+        max-width: 1200px !important;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1440px){
+    .containfix{
+        max-width: 960px !important;
+    }
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px){
+    
+    .containfix{
+        max-width: 680px !important;
+    }
+    .hashtag{
+        font-size: 30px;
+        margin-right: 9px;
+        margin-top: 248px;
+        margin-bottom: 0px;
+    }
+    .links{
+        margin-top: 30px;
+        margin-right: 0px;
+        color: #fff;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px){
+    .containfix{
+        max-width: 90% !important;
+    }
+    .links{
+        width: 65%;
+        float: none;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding-bottom: 4%;
+    }
+    .hashtag{
+        font-size: 20px;
+        margin-top: 31px;
+        margin-right: 16px;
+        margin-bottom: 0px;
+    }
+    .socialicons{
+        margin-left: 0px;
+    }
+    .branding{
+        margin-bottom: 0px;
+        width: 38%;
+    }
+    a.regyellow{
+        width: 236px;
+        font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 320px){
+    .containfix{
+        max-width: 90% !important;
+    }
+    .links{
+        float: none;
+        display: block;
+        width: auto;
+        margin-top: 0%;
+        margin-right: -3%;
+    }
+    .hashtag{
+        font-size: 14px;
+        margin-top: 31px;
+        margin-right: 16px;
+        margin-bottom: 0px;
+    }
+    .socialicons{
+        margin-left: 0px;
+    }
+    .branding{
+        margin-bottom: 0px;
+        width: 36%;
+    }
+    a.ftLogo{
+        display: block;
+        margin-bottom: 20px;
+    }
+    .logo{
+        width: 200px !important;
+        margin-left: 0px !important;
+        margin-top: 0px;
+    }
+    a.regyellow{
+        width: 200px;
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,284 @@
+footer {
+    background-color: transparent;
+    width: 100%;
+    position: relative;
+    background-image: url('./footer_img.png');
+    background-size: cover;
+    z-index: 999;
+}
+.f_wrap{
+    width: 100%;
+    background-color: transparent;
+    
+}
+.f_wrap::after{
+    content:' ';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 33%;
+    background-color: transparent;
+    height: 100%;
+    z-index: 1;
+   
+}
+.containfix{
+    max-width: 1400px;
+    margin: 0 auto;
+    background-color: transparent;
+    position: relative;
+    z-index: 99999;
+}
+
+
+
+.branding {
+    /*grid-column-start: 1;
+    grid-column-end: 6;*/
+    display: inline-block;
+    margin-bottom: -5px;
+    width: 100%;
+}
+.logo {
+    width: 300px;
+    margin: 0px;
+    display: inline-block;
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+.links {
+    /*display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: max-content;*/
+    float: right;
+    margin-top: 15%;
+    margin-right: 2%;
+}
+.inline,div.inline.undefined{
+    text-align: left;
+    float: right;
+    display: inline-block;
+    margin-top: 75px;
+
+}
+.inlines{
+    text-align: left;
+}
+.inlineLink {
+    font-family: 'proxima-nova', sans-serif;
+    display: inline;
+    padding-right: 10px;
+    font-size: 28px;
+    
+}
+.inlineLink a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+.inlineLink:first-child a{
+    font-weight: normal;
+}
+.hashtag{
+    color: #fff;
+    font-family: 'proxima-nova',sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: center;
+    margin-right: 90px;
+    margin-bottom: 50px;
+}
+
+.socialicons{
+    display: inline-block;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 0px;
+    color: #fff;
+    background-color: transparent;
+    font-size: 30px;
+    padding: 5px;
+    vertical-align: center;
+    
+}
+.socialicons:first-of-type{
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.socialicons:hover{
+    color: #f0007b;
+    background-color: transparent;
+}
+.fNorma{
+    text-decoration: none;
+    font-size: 28px; 
+    font-weight: bold;
+    color: #fff;
+}
+.fNorma:hover{
+    color: rgb(55,55,55);
+}
+.fNorm{
+    font-weight: normal !important;
+    color: #fff;
+    font-size: 28px;
+}
+
+@media only screen and (max-width: 759px){
+    .socialicons{
+        font-size: 24px;
+    }
+    .hashtag{
+        font-size: 14px;
+        margin-bottom: 30px;
+        margin-right: 16px;
+    }
+    .inlineLink{
+        font-size: 11px;
+    }
+    
+}
+
+@media only screen and (max-width: 600px){
+    
+    .branding{
+        display: inline-block !important;
+        width: 38%;
+        vertical-align: top;
+    }
+    
+    .links{
+        display: inline-block !important;
+        width: 62%;
+        vertical-align: top;
+        text-align: right;
+    }
+    .socialicons{
+        display: inline-block;
+        font-size: 24px;
+        margin-top: 5px;
+    }
+    .inline{
+        margin-top: 0px;
+        float: none;
+        text-align: center;
+    }
+    
+    .fNorm,.fNorma{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 321px){
+   
+    .branding{
+        display: inline-block !important;
+        width: 30%;
+        vertical-align: top;
+    }
+    .logo{
+        width: 60px !important;
+        margin-left: 0px !important;
+        margin-top: 8px;
+    }
+    .links{
+        display: inline-block !important;
+        width: 70%;
+        vertical-align: top;
+    }
+    .socialicons{
+        display: inline-block;
+        font-size: 24px;
+        margin-top: 5px;
+    }
+    .fNorm,.fNorma{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 1441px) and (max-width: 1600px){
+    .containfix{
+        max-width: 1200px !important;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1440px){
+    .containfix{
+        max-width: 960px !important;
+    }
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px){
+    
+    .containfix{
+        max-width: 680px !important;
+    }
+    .hashtag{
+        font-size: 20px;
+        margin-right: 9px;
+        margin-top: 248px;
+        margin-bottom: 0px;
+    }
+    .links{
+        margin-top: 0px;
+        margin-right: 0px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px){
+    .containfix{
+        max-width: 90% !important;
+    }
+    .links{
+        width: 65%;
+        background-color: #000;
+        margin-top: 19%;
+        margin-right: -3%;
+    }
+    .hashtag{
+        font-size: 14px;
+        margin-top: 31px;
+        margin-right: 16px;
+        margin-bottom: 0px;
+    }
+    .socialicons{
+        margin-left: 0px;
+    }
+    .branding{
+        margin-bottom: 0px;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 320px){
+    .containfix{
+        max-width: 90% !important;
+    }
+    .links{
+        width: auto;
+        background-color: #000;
+        margin-top: 0%;
+        margin-right: -3%;
+    }
+    .hashtag{
+        font-size: 14px;
+        margin-top: 31px;
+        margin-right: 16px;
+        margin-bottom: 0px;
+    }
+    .socialicons{
+        margin-left: 0px;
+    }
+    .branding{
+        margin-bottom: 0px;
+        width: 36%;
+    }
+    .logo{
+        width: 63px !important;
+        margin-left: 0px !important;
+        margin-top: 0px;
+    }
+}
