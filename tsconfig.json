@@ -1,0 +1,19 @@
+{
+ "compilerOptions": {
+   "target": "esnext",
+   "module": "esnext",
+   "lib": ["DOM", "ES2017"],
+   "jsx": "react",
+   "strict": true,
+   "esModuleInterop": true,
+   "experimentalDecorators": true,
+   "emitDecoratorMetadata": true,
+   "noEmit": true,
+   "skipLibCheck": true,
+   "moduleResolution": "Node",
+   "typeRoots": ["./node_modules/@types", "./types"],
+   "resolveJsonModule": true,
+ },
+ "include": ["./src/**/*", "**/*.ts", "__mocks__/gatsbyjts"],
+ "exclude": ["**/*.wasm"]
+}
